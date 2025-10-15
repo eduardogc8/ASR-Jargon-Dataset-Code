@@ -9,7 +9,6 @@ import torch
 import whisper
 
 
-# (Your helper functions go here)
 def find_best_matching_subsequence(seq: list[str], target: list[str]):
     """
     Finds the contiguous subsequence of seq (of length equal to target)
