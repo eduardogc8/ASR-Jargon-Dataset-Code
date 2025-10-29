@@ -1,0 +1,506 @@
+dataset_id,target_word
+train_pc_ma_hv110_pc_ma_hv110_1036_4772.03_4775.75.wav,cidade
+train_pc_ma_hv092_pc_ma_hv092_414_2655.88_2659.90.wav,conhecia
+train_pc_ma_hv142_pc_ma_hv142_434_2229.53_2232.03.wav,doente
+train_pc_ma_hv026_pc_ma_hv026_993_3426.837_3428.478.wav,dona
+train_mb_hv109_mb_hv109_696_3477.45_3492.64.wav,"gente, três"
+train_pc_ma_hv208_pc_ma_hv208_110_485.339_487.97999999999996.wav,vida
+train_mb_hv129_mb_hv129_871_2197.84_2198.72.wav,dinheiro
+train_pc_ma_hv056_pc_ma_hv056_869_4180.18_4182.98.wav,contar
+train_pc_ma_hv197_pc_ma_hv197_608_2423.36_2424.30.wav,eu
+train_pc_ma_hv208_pc_ma_hv208_74_352.954_360.14099999999996.wav,tentando
+train_pc_ma_hv247_pc_ma_hv247_1071_4923.324_4929.568.wav,família
+train_pc_ma_hv043_pc_ma_hv043_65_314.16_319.944.wav,niuaque
+train_pc_ma_hv213_pc_ma_hv213_106_666.789_668.99.wav,kelmo
+train_pc_ma_hv018_pc_ma_hv018_168_1095.063_1104.849.wav,grandes sertão-veredas
+train_pc_ma_hv240_pc_ma_hv240_1260_5458.315_5460.336.wav,agrônomo
+train_pc_ma_hv008_pc_ma_hv008_174_904.496_906.799.wav,irmão
+train_mb_hv127_mb_hv127_21_70.86_72.46.wav,rio grande do norte
+train_pc_ma_hv156_pc_ma_hv156_1690_11916.27_11925.94.wav,erundina
+train_pc_ma_hv008_pc_ma_hv008_1479_7234.315_7237.897.wav,creche plan
+train_pc_ma_hv028_pc_ma_hv028_551_3895.289_3897.911.wav,aids
+train_pc_ma_hv194_pc_ma_hv194_63_284.42_285.85.wav,poças
+train_mb_hv129_mb_hv129_595_1545.57_1546.01.wav,ouro
+train_pc_ma_hv193_pc_ma_hv193_755_3201.65_3204.49.wav,gente
+train_pc_ma_hv256_pc_ma_hv256_888_4213.271_4216.872.wav,pele
+train_pc_ma_hv017_pc_ma_hv017_520_1762.882_1771.011.wav,hiper
+train_pc_ma_hv141_pc_ma_hv141_719_2898.12_2907.84.wav,dizendo
+train_pc_ma_hv228_pc_ma_hv228_1041_4580.685_4582.826.wav,carro
+train_pc_ma_hv061_pc_ma_hv061_636_4142.298_4150.002.wav,zurich
+train_pc_ma_hv184_pc_ma_hv184_608_3068.774_3072.758.wav,shabbat
+train_pc_ma_hv221_pc_ma_hv221_399_2588.132_2595.398.wav,poltrona
+train_pc_ma_hv205_pc_ma_hv205_933_3844.321_3846.803.wav,falou
+train_pc_ma_hv028_pc_ma_hv028_987_7281.151_7284.493.wav,falou
+train_pc_ma_hv012_pc_ma_hv012_1518_5834.507_5841.03.wav,judiaram
+train_mb_hv112_mb_hv112_459_1332.96_1339.92.wav,casca
+train_pc_ma_hv168_pc_ma_hv168_475_2349.49_2354.41.wav,"queria, sair"
+train_pc_ma_hv242_pc_ma_hv242_546_2218.93_2222.212.wav,senhor
+train_pc_ma_hv021_pc_ma_hv021_150_771.13_777.577.wav,nós
+train_mb_hv105_mb_hv105_1236_4443.08_4444.44.wav,estou te dizendo
+train_pc_ma_hv221_pc_ma_hv221_2079_12654.399_12668.969.wav,varanda
+train_pc_ma_hv220_pc_ma_hv220_1228_5365.375_5366.976000000001.wav,mandora
+train_pc_ma_hv009_pc_ma_hv009_602_2651.606_2653.888.wav,quercia
+train_pc_ma_hv044_pc_ma_hv044_700_3749.423_3750.583.wav,pavilhão
+train_pc_ma_hv140_pc_ma_hv140_506_2215.53_2228.74.wav,fulano
+train_pc_ma_hv087_pc_ma_hv087_1217_5949.30_5956.23.wav,museu da imagem do som
+train_pc_ma_hv164_pc_ma_hv164_627_3219.98_3226.96.wav,cidade
+train_pc_ma_hv136_pc_ma_hv136_346_1924.98_1932.73.wav,festas de aniversário
+train_pc_ma_hv051_pc_ma_hv051_566_3422.03_3424.81.wav,arte
+train_pc_ma_hv090_pc_ma_hv090_488_2451.33_2455.93.wav,técnicas pedagógicas dinâmicas
+train_pc_ma_hv078_pc_ma_hv078_1092_4197.68_4210.35.wav,marido
+train_pc_ma_hv087_pc_ma_hv087_685_3153.74_3163.86.wav,magistração
+train_pc_ma_hv233_pc_ma_hv233_725_2796.452_2800.753.wav,mil novecentos e oitenta e três
+train_mb_hv126_mb_hv126_1575_4871.49_4872.63.wav,"senhor, onça"
+train_pc_ma_hv104_pc_ma_hv104_10_55.54_55.96.wav,portuguesa
+train_pc_ma_hv149_pc_ma_hv149_1275_5537.11_5540.86.wav,aberta
+train_pc_ma_hv136_pc_ma_hv136_417_2346.67_2352.11.wav,"geral cunha mello, zerbina"
+train_pc_ma_hv266_pc_ma_hv266_2334_7205.912_7207.974.wav,trabalhava
+train_mb_hv126_mb_hv126_1458_4508.40_4511.76.wav,"garimpo, mato"
+train_mb_hv103_mb_hv103_276_1142.93_1148.70.wav,casas de taipa
+train_pc_ma_hv249_pc_ma_hv249_1148_5672.49_5673.031.wav,são joão
+train_pc_ma_hv235_pc_ma_hv235_2125_6788.791_6792.293000000001.wav,tio
+train_pc_ma_hv020_pc_ma_hv020_35_149.751_152.594.wav,rua rodesia
+train_mb_hv106_mb_hv106_268_1035.05_1039.67.wav,boi
+train_pc_ma_hv006_pc_ma_hv006_1213_4512.526_4513.006.wav,onze
+train_pc_ma_hv129_pc_ma_hv129_244_1241.11_1245.73.wav,tatuzinho bola
+train_pc_ma_hv145_pc_ma_hv145_355_1546.43_1548.75.wav,freezer
+train_pc_ma_hv122_pc_ma_hv122_331_1932.77_1933.93.wav,namorando
+train_pc_ma_hv029_pc_ma_hv029_616_1953.17_1954.28.wav,senhora
+train_pc_ma_hv209_pc_ma_hv209_1179_4669.273_4670.733.wav,senhora
+train_pc_ma_hv235_pc_ma_hv235_1564_5049.678_5052.299.wav,encontraiu
+train_pc_ma_hv263_pc_ma_hv263_1109_4584.732_4586.192.wav,ocarapicuíba
+train_pc_ma_hv238_pc_ma_hv238_2283_9994.387_10000.714.wav,dersa
+train_pc_ma_hv187_pc_ma_hv187_717_4129.873_4141.161.wav,aerofotogrametria
+train_pc_ma_hv204_pc_ma_hv204_966_4560.816000000001_4565.62.wav,colniza
+train_pc_ma_hv246_pc_ma_hv246_752_3827.209_3828.609.wav,campo de martes
+train_pc_ma_hv059_pc_ma_hv059_510_3614.50_3617.80.wav,aiangabaú
+train_pc_ma_hv270_pc_ma_hv270_390_2231.172_2232.953.wav,biologia
+train_pc_ma_hv130_pc_ma_hv130_396_2731.57_2733.88.wav,saiu
+train_pc_ma_hv070_pc_ma_hv070_852_2800.47_2802.82.wav,pernambucana
+train_pc_ma_hv239_pc_ma_hv239_1332_6121.929_6127.610000000001.wav,a parecer
+train_pc_ma_hv012_pc_ma_hv012_274_1100.373_1108.895.wav,receber
+train_mb_hv101_mb_hv101_399_1352.97_1354.15.wav,contratava
+train_mb_hv110_mb_hv110_231_893.23_895.49.wav,lá
+train_pc_ma_hv151_pc_ma_hv151_145_458.10_460.72.wav,nós quatro
+train_mb_hv109_mb_hv109_502_2435.27_2440.09.wav,parintins
+train_mb_hv131_mb_hv131_862_2964.43_2968.91.wav,"noiada, bucho"
+train_mb_hv105_mb_hv105_1541_5509.13_5522.90.wav,eu
+train_pc_ma_hv019_pc_ma_hv019_155_745.155_753.818.wav,conseguia
+train_pc_ma_hv036_pc_ma_hv036_660_3452.92_3458.22.wav,mar
+train_pc_ma_hv036_pc_ma_hv036_1171_5962.20_5967.23.wav,marília
+train_pc_ma_hv211_pc_ma_hv211_1214_5728.4800000000005_5729.621.wav,escorregava
+train_pc_ma_hv023_pc_ma_hv023_1060_4266.572_4273.378.wav,"ala das baianas, sala de porta bandeira"
+train_pc_ma_hv014_pc_ma_hv014_1225_5457.095_5460.856.wav,síndico
+train_pc_ma_hv211_pc_ma_hv211_1515_6905.561000000001_6914.008000000001.wav,engenhando 
+train_pc_ma_hv140_pc_ma_hv140_361_1498.83_1505.13.wav,lourdes
+train_pc_ma_hv196_pc_ma_hv196_1040_4714.36_4717.92.wav,assoalhos
+train_pc_ma_hv091_pc_ma_hv091_362_1697.95_1701.36.wav,sesi
+train_pc_ma_hv241_pc_ma_hv241_167_695.4830000000001_700.2090000000001.wav,asfaltadas
+train_pc_ma_hv140_pc_ma_hv140_397_1690.54_1701.88.wav,tio
+train_pc_ma_hv266_pc_ma_hv266_2406_7411.245_7415.249.wav,voto de cabresto
+train_pc_ma_hv199_pc_ma_hv199_748_3747.58_3750.03.wav,estação
+train_pc_ma_hv124_pc_ma_hv124_569_2631.96_2645.15.wav,suzano
+train_pc_ma_hv218_pc_ma_hv218_702_3213.929_3221.256.wav,lisos
+train_pc_ma_hv023_pc_ma_hv023_27_145.859_163.063.wav,idade
+train_mb_hv101_mb_hv101_264_891.77_894.43.wav,rapazinho
+train_pc_ma_hv156_pc_ma_hv156_1445_10049.74_10063.20.wav,laboratório de habitação
+train_pc_ma_hv191_pc_ma_hv191_1166_4686.82_4687.40.wav,irmã
+train_pc_ma_hv014_pc_ma_hv014_1001_4259.98_4263.782.wav,rolando
+train_pc_ma_hv087_pc_ma_hv087_1163_5695.07_5701.80.wav,frida kahlo
+train_pc_ma_hv023_pc_ma_hv023_387_1579.566_1581.287.wav,elisinha
+train_mb_hv133_mb_hv133_386_1074.27_1075.35.wav,jatuarana
+train_pc_ma_hv244_pc_ma_hv244_751_2777.252_2780.775.wav,santo
+train_pc_ma_hv177_pc_ma_hv177_105_662.23_666.33.wav,dois metros e meio de diâmetro
+train_pc_ma_hv098_pc_ma_hv098_576_2308.86_2310.22.wav,ditadura
+train_pc_ma_hv122_pc_ma_hv122_611_3510.39_3515.33.wav,melhoral
+train_pc_ma_hv062_pc_ma_hv062_1278_5699.957_5701.999.wav,povo
+train_mb_hv131_mb_hv131_137_488.40_490.56.wav,senhora
+train_pc_ma_hv087_pc_ma_hv087_799_3664.24_3670.83.wav,sodré
+train_pc_ma_hv233_pc_ma_hv233_588_2216.942_2220.0640000000003.wav,irmão 
+train_pc_ma_hv092_pc_ma_hv092_451_2945.17_2948.25.wav,viga-mestra
+train_pc_ma_hv095_pc_ma_hv095_278_1594.07_1602.27.wav,"salas, moringas"
+train_pc_ma_hv249_pc_ma_hv249_1398_7015.766_7032.833.wav,emurb
+train_pc_ma_hv110_pc_ma_hv110_1097_5047.44_5049.35.wav,esteticista
+train_mb_hv105_mb_hv105_788_2813.14_2815.05.wav,leite
+train_pc_ma_hv129_pc_ma_hv129_174_907.96_909.84.wav,vidros
+train_pc_ma_hv230_pc_ma_hv230_431_1760.26_1763.523.wav,matinê
+train_pc_ma_hv072_pc_ma_hv072_26_161.96_164.42.wav,treze anos
+train_pc_ma_hv048_pc_ma_hv048_312_1680.51_1681.23.wav,bailes
+train_pc_ma_hv038_pc_ma_hv038_357_1549.79_1551.85.wav,escola
+train_pc_ma_hv127_pc_ma_hv127_1141_5634.37_5635.41.wav,caixão
+train_pc_ma_hv211_pc_ma_hv211_342_1752.494_1753.094.wav,zabumbeiro
+train_mb_hv105_mb_hv105_133_573.13_576.97.wav,noiva
+train_mb_hv112_mb_hv112_137_428.55_430.41.wav,mingau
+train_mb_hv128_mb_hv128_346_1447.59_1448.39.wav,rio
+train_pc_ma_hv029_pc_ma_hv029_961_3008.89_3010.39.wav,filho
+train_mb_hv131_mb_hv131_663_2260.50_2263.08.wav,mudou
+train_pc_ma_hv234_pc_ma_hv234_13_146.033_151.696.wav,fricaneca
+train_pc_ma_hv190_pc_ma_hv190_44_318.97_326.67.wav,deutsche schule
+train_mb_hv101_mb_hv101_439_1484.62_1487.00.wav,juta
+train_pc_ma_hv038_pc_ma_hv038_189_847.89_853.45.wav,cão
+train_pc_ma_hv178_pc_ma_hv178_3098_12322.92_12324.16.wav,londres
+train_pc_ma_hv002_pc_ma_hv002_689_3266.504_3267.985.wav,menininho
+train_pc_ma_hv026_pc_ma_hv026_646_2302.199_2308.163.wav,dinheiro
+train_pc_ma_hv006_pc_ma_hv006_1091_4066.483_4071.884.wav,dona aurora
+train_mb_hv102_mb_hv102_769_3708.19_3716.27.wav,compadre wanderlei
+train_pc_ma_hv186_pc_ma_hv186_981_5548.878_5555.024.wav,oitenta e três
+train_pc_ma_hv179_pc_ma_hv179_1035_6005.17_6011.50.wav,porto-riquenha
+train_pc_ma_hv002_pc_ma_hv002_98_503.47_505.011.wav,dama
+train_mb_hv122_mb_hv122_1164_4155.42_4157.36.wav,titia
+train_pc_ma_hv189_pc_ma_hv189_697_4035.27_4039.73.wav,dan brown
+train_pc_ma_hv163_pc_ma_hv163_793_4283.85_4288.15.wav,"judaísmo, primeira dama"
+train_pc_ma_hv167_pc_ma_hv167_140_603.42_605.54.wav,passagem
+train_pc_ma_hv211_pc_ma_hv211_748_3533.887_3537.188.wav,"delegacia, cadeira"
+train_pc_ma_hv026_pc_ma_hv026_1078_3696.096_3703.177.wav,campo limpo
+train_pc_ma_hv226_pc_ma_hv226_666_2315.439_2316.9199999999996.wav,filmes cult
+train_pc_ma_hv017_pc_ma_hv017_1076_3907.552_3909.793.wav,plástica
+train_pc_ma_hv085_pc_ma_hv085_1406_5664.49_5666.55.wav,sacaria
+train_pc_ma_hv115_pc_ma_hv115_861_2897.47_2898.91.wav,brasil
+train_pc_ma_hv195_pc_ma_hv195_481_2327.29_2329.38.wav,masp trianon
+train_pc_ma_hv071_pc_ma_hv071_736_2970.83_2974.01.wav,cybele
+train_pc_ma_hv228_pc_ma_hv228_93_430.823_432.30499999999995.wav,doméstica
+train_pc_ma_hv056_pc_ma_hv056_7_47.54_53.50.wav,trinta
+train_pc_ma_hv198_pc_ma_hv198_966_6103.68_6108.85.wav,vestido de noiva
+train_pc_ma_hv259_pc_ma_hv259_1719_7850.794_7853.115.wav,dezembro
+train_pc_ma_hv186_pc_ma_hv186_1034_5807.804_5809.025.wav,quechume
+train_pc_ma_hv061_pc_ma_hv061_328_2099.899_2108.182.wav,mãe
+train_pc_ma_hv206_pc_ma_hv206_478_2679.3759999999997_2688.699.wav,demogênese
+train_pc_ma_hv183_pc_ma_hv183_297_1162.38_1165.78.wav,pesadelo
+train_pc_ma_hv098_pc_ma_hv098_558_2215.12_2220.09.wav,pessoa
+train_pc_ma_hv186_pc_ma_hv186_346_2161.16_2162.242.wav,bolcheviques
+train_pc_ma_hv224_pc_ma_hv224_1036_3349.7780000000002_3351.68.wav,chacoalho
+train_pc_ma_hv115_pc_ma_hv115_698_2297.63_2303.40.wav,bairro
+train_pc_ma_hv026_pc_ma_hv026_699_2520.556_2522.057.wav,vulgo
+train_pc_ma_hv019_pc_ma_hv019_34_174.801_186.03.wav,sefardita
+train_mb_hv112_mb_hv112_1388_4216.29_4219.43.wav,casualidade
+train_pc_ma_hv019_pc_ma_hv019_901_4603.218_4612.122.wav,ipsis litteris
+train_pc_ma_hv178_pc_ma_hv178_1423_5656.58_5659.12.wav,senhor
+train_mb_hv132_mb_hv132_31_104.01_108.67.wav,ovo
+train_pc_ma_hv211_pc_ma_hv211_380_1914.8799999999999_1921.427.wav,musicasinhas
+train_pc_ma_hv074_pc_ma_hv074_347_1166.84_1167.76.wav,bicicleta
+train_pc_ma_hv087_pc_ma_hv087_1151_5615.07_5622.19.wav,"museógrafa, museógrafado"
+train_pc_ma_hv040_pc_ma_hv040_176_678.64_684.65.wav,piolho
+train_pc_ma_hv184_pc_ma_hv184_802_4243.758_4250.882.wav,toco
+train_pc_ma_hv113_pc_ma_hv113_250_1328.44_1333.65.wav,colegas
+train_pc_ma_hv012_pc_ma_hv012_104_416.638_420.199.wav,levada
+train_pc_ma_hv229_pc_ma_hv229_244_1179.519_1184.883.wav,física
+train_pc_ma_hv108_pc_ma_hv108_16_96.46_100.75.wav,abrasileirado
+train_mb_hv105_mb_hv105_1525_5464.81_5466.79.wav,preservação
+train_pc_ma_hv211_pc_ma_hv211_139_770.351_777.596.wav,marca
+train_pc_ma_hv092_pc_ma_hv092_104_580.58_586.62.wav,vila madalena
+train_pc_ma_hv240_pc_ma_hv240_1096_4650.5_4651.661.wav,trocar a fita
+train_pc_ma_hv190_pc_ma_hv190_365_1942.48_1950.83.wav,burro
+train_mb_hv103_mb_hv103_282_1161.87_1164.75.wav,jará
+train_pc_ma_hv243_pc_ma_hv243_686_3385.37_3391.235.wav,quarto
+train_mb_hv126_mb_hv126_1204_3807.01_3809.58.wav,caça
+train_pc_ma_hv233_pc_ma_hv233_163_673.5010000000001_677.965.wav,namoradas
+train_pc_ma_hv125_pc_ma_hv125_815_4155.56_4159.66.wav,gente
+train_pc_ma_hv083_pc_ma_hv083_655_3538.33_3542.58.wav,aidê
+train_pc_ma_hv145_pc_ma_hv145_1314_5186.86_5194.25.wav,sítios
+train_pc_ma_hv105_pc_ma_hv105_443_2878.20_2884.96.wav,cara
+train_pc_ma_hv266_pc_ma_hv266_2986_9199.432_9209.455.wav,escritório
+train_pc_ma_hv116_pc_ma_hv116_107_626.51_627.41.wav,corso
+train_pc_ma_hv220_pc_ma_hv220_382_1635.034_1641.603.wav,zê
+train_pc_ma_hv223_pc_ma_hv223_579_2025.358_2030.1589999999999.wav,chás
+train_pc_ma_hv190_pc_ma_hv190_491_2539.93_2542.21.wav,judiar
+train_pc_ma_hv036_pc_ma_hv036_1128_5762.62_5766.30.wav,mugi
+train_pc_ma_hv128_pc_ma_hv128_431_2319.14_2323.57.wav,bujão
+train_mb_hv107_mb_hv107_122_546.05_550.41.wav,jogasse bola
+train_pc_ma_hv019_pc_ma_hv019_235_1234.225_1252.65.wav,"jean francesco, flávio miliaccio, riva nimitz"
+train_pc_ma_hv134_pc_ma_hv134_140_646.68_650.70.wav,cinco mulher(es)
+train_pc_ma_hv263_pc_ma_hv263_1610_6557.419_6559.920999999999.wav,criança
+train_pc_ma_hv168_pc_ma_hv168_832_3974.45_3977.07.wav,carne contra filé
+train_pc_ma_hv178_pc_ma_hv178_1294_5160.97_5167.82.wav,"dominicanos, perseguidos"
+train_pc_ma_hv188_pc_ma_hv188_1011_4491.65_4494.18.wav,pronto-socorro
+train_mb_hv126_mb_hv126_1181_3738.99_3743.93.wav,chamam-se
+train_mb_hv102_mb_hv102_475_2268.31_2269.81.wav,óbidos
+train_pc_ma_hv053_pc_ma_hv053_276_1344.19_1349.97.wav,"padrasto, saúde"
+train_pc_ma_hv240_pc_ma_hv240_904_3769.546_3771.927.wav,mãe
+train_mb_hv107_mb_hv107_193_743.39_748.09.wav,canoas
+train_pc_ma_hv241_pc_ma_hv241_589_2407.073_2416.0389999999998.wav,"uerre, UR"
+train_pc_ma_hv266_pc_ma_hv266_2186_6705.097_6708.218.wav,globo
+train_mb_hv106_mb_hv106_655_2621.84_2629.31.wav,desgastante
+train_pc_ma_hv026_pc_ma_hv026_1291_4413.392_4414.513.wav,regional campo limpo
+train_pc_ma_hv007_pc_ma_hv007_555_2527.417_2531.46.wav,festas 
+train_pc_ma_hv149_pc_ma_hv149_822_3647.53_3653.04.wav,marido
+train_pc_ma_hv178_pc_ma_hv178_96_493.02_495.10.wav,virgens
+train_pc_ma_hv266_pc_ma_hv266_415_1345.4550000000002_1354.363.wav,"guaranus, pau-perna"
+train_mb_hv131_mb_hv131_158_549.65_552.47.wav,prato
+train_pc_ma_hv109_pc_ma_hv109_334_2192.87_2202.44.wav,aritmética
+train_pc_ma_hv134_pc_ma_hv134_815_3684.60_3688.84.wav,abu abud
+train_mb_hv133_mb_hv133_324_913.70_918.93.wav,"umbigo, esperninhando"
+train_pc_ma_hv178_pc_ma_hv178_917_3708.03_3712.83.wav,camas
+train_pc_ma_hv043_pc_ma_hv043_41_217.842_219.283.wav,jardins
+train_pc_ma_hv266_pc_ma_hv266_1299_3896.0_3901.205.wav,mãe
+train_pc_ma_hv008_pc_ma_hv008_789_3795.506_3797.347.wav,viramundo
+train_mb_hv101_mb_hv101_1219_3944.83_3953.15.wav,colher
+train_pc_ma_hv227_pc_ma_hv227_94_443.878_446.079.wav,grupo
+train_pc_ma_hv242_pc_ma_hv242_390_1676.644_1677.544.wav,festa
+train_pc_ma_hv241_pc_ma_hv241_394_1597.606_1598.706.wav,engolia
+train_pc_ma_hv009_pc_ma_hv009_528_2362.272_2366.936.wav,escorregador
+train_pc_ma_hv084_pc_ma_hv084_811_4848.61_4858.69.wav,exposições de arte
+train_pc_ma_hv224_pc_ma_hv224_1058_3403.064_3404.024.wav,rocha
+train_mb_hv122_mb_hv122_564_1924.87_1928.05.wav,ralhava
+train_pc_ma_hv241_pc_ma_hv241_744_3107.419_3111.5009999999997.wav,mãos
+train_pc_ma_hv213_pc_ma_hv213_172_1026.741_1033.0649999999998.wav,letra de música
+train_mb_hv128_mb_hv128_466_1891.60_1896.61.wav,léguas
+train_pc_ma_hv085_pc_ma_hv085_1631_6623.82_6629.79.wav,"prefeitura, adesivado"
+train_pc_ma_hv028_pc_ma_hv028_181_1104.008_1111.593.wav,"vila nhocuné, artur alvim"
+train_pc_ma_hv259_pc_ma_hv259_1375_6474.0380000000005_6478.361.wav,rilben
+train_pc_ma_hv053_pc_ma_hv053_186_921.66_925.10.wav,historiador
+train_pc_ma_hv160_pc_ma_hv160_619_3154.36_3168.96.wav,tati
+train_pc_ma_hv205_pc_ma_hv205_1310_5635.681_5637.281999999999.wav,maria duschenes
+train_pc_ma_hv035_pc_ma_hv035_328_1943.19_1949.74.wav,cine alhamba
+train_pc_ma_hv270_pc_ma_hv270_1611_8247.536_8254.82.wav,"bibi, josé vieira"
+train_pc_ma_hv151_pc_ma_hv151_341_1043.17_1046.01.wav,banda
+train_pc_ma_hv063_pc_ma_hv063_746_5064.77_5076.56.wav,sul
+train_mb_hv101_mb_hv101_1429_4611.99_4614.75.wav,garrafa
+train_pc_ma_hv127_pc_ma_hv127_1447_7042.90_7054.61.wav,monserrat caballé
+train_pc_ma_hv184_pc_ma_hv184_694_3632.019_3636.762.wav,cohen
+train_pc_ma_hv206_pc_ma_hv206_11_57.444_59.225.wav,são paulo
+train_mb_hv101_mb_hv101_613_2033.60_2038.96.wav,enchente
+train_pc_ma_hv078_pc_ma_hv078_986_3824.82_3826.28.wav,lafarge
+train_pc_ma_hv045_pc_ma_hv045_100_731.29_741.30.wav,hashi
+train_pc_ma_hv041_pc_ma_hv041_117_521.056_526.82.wav,
+train_pc_ma_hv056_pc_ma_hv056_791_3850.52_3851.38.wav,"servir, exército"
+train_pc_ma_hv002_pc_ma_hv002_472_2313.25_2319.752.wav,teco-teco
+train_pc_ma_hv238_pc_ma_hv238_2576_11513.171_11528.241.wav,dersa
+train_pc_ma_hv108_pc_ma_hv108_880_3497.57_3498.05.wav,cachê
+train_pc_ma_hv269_pc_ma_hv269_1214_4597.882_4600.981.wav,vai-vai
+train_pc_ma_hv007_pc_ma_hv007_1110_5142.489_5147.011.wav,música
+train_pc_ma_hv238_pc_ma_hv238_2268_9927.572_9936.474.wav,dersa
+train_pc_ma_hv029_pc_ma_hv029_689_2171.68_2177.93.wav,poluição
+train_pc_ma_hv087_pc_ma_hv087_701_3241.22_3245.35.wav,senhor
+train_pc_ma_hv034_pc_ma_hv034_710_5263.69_5272.99.wav,gestão
+train_pc_ma_hv087_pc_ma_hv087_790_3611.41_3613.73.wav,sodresista
+train_pc_ma_hv115_pc_ma_hv115_845_2848.91_2853.39.wav,estrangeiro
+train_pc_ma_hv266_pc_ma_hv266_1056_3167.736_3170.8979999999997.wav,garanhuns
+train_pc_ma_hv181_pc_ma_hv181_433_2713.06_2715.461.wav,dodge
+train_pc_ma_hv218_pc_ma_hv218_23_150.327_153.949.wav,ituanas
+train_pc_ma_hv067_pc_ma_hv067_182_897.86_915.35.wav,cortiço
+train_pc_ma_hv265_pc_ma_hv265_516_2540.164_2545.0460000000003.wav,sharp
+train_pc_ma_hv203_pc_ma_hv203_1023_4725.584_4733.691.wav,guardinha
+train_pc_ma_hv266_pc_ma_hv266_788_2425.7889999999998_2428.131.wav,condução
+train_pc_ma_hv240_pc_ma_hv240_346_1471.611_1491.249.wav,atibaia
+train_pc_ma_hv026_pc_ma_hv026_974_3355.004_3357.965.wav,filho
+train_pc_ma_hv095_pc_ma_hv095_226_1294.67_1296.01.wav,volta redonda
+train_mb_hv109_mb_hv109_84_505.09_511.11.wav,tambaqui
+train_pc_ma_hv096_pc_ma_hv096_215_1189.60_1190.74.wav,azul marinho
+train_pc_ma_hv247_pc_ma_hv247_261_1172.628_1189.535.wav,enforcar
+train_pc_ma_hv134_pc_ma_hv134_412_1767.39_1768.47.wav,bresser
+train_pc_ma_hv152_pc_ma_hv152_809_2500.16_2504.68.wav,astro
+train_pc_ma_hv251_pc_ma_hv251_336_1853.565_1854.325.wav,chácara
+train_pc_ma_hv270_pc_ma_hv270_1649_8360.25_8365.375.wav,liberação
+train_pc_ma_hv274_pc_ma_hv274_27_134.58_139.043.wav,táxis
+train_mb_hv100_mb_hv100_60_253.79_256.42.wav,junta
+train_pc_ma_hv272_pc_ma_hv272_413_2031.543_2035.8429999999998.wav,kitchener
+train_pc_ma_hv178_pc_ma_hv178_864_3501.07_3502.67.wav,contar
+train_pc_ma_hv071_pc_ma_hv071_222_951.87_955.03.wav,campo limpo paulista
+train_pc_ma_hv124_pc_ma_hv124_435_2040.00_2056.27.wav,"suzano, barueri"
+train_pc_ma_hv182_pc_ma_hv182_583_3234.754_3236.115.wav,griôs
+train_mb_hv130_mb_hv130_172_630.82_632.84.wav,paxiúba
+train_pc_ma_hv061_pc_ma_hv061_881_5868.002_5878.613.wav,luiz montanz
+train_pc_ma_hv196_pc_ma_hv196_940_4266.81_4269.23.wav,
+train_pc_ma_hv048_pc_ma_hv048_564_2935.91_2938.47.wav,votorantim
+train_pc_ma_hv013_pc_ma_hv013_289_1038.662_1044.144.wav,angras do rei
+train_pc_ma_hv196_pc_ma_hv196_1527_7063.88_7077.13.wav,walmart
+train_pc_ma_hv184_pc_ma_hv184_475_2386.89_2402.32.wav,hasidut
+train_pc_ma_hv177_pc_ma_hv177_529_3284.87_3290.99.wav,rio pardo
+train_pc_ma_hv244_pc_ma_hv244_788_2913.317_2914.498.wav,matemática
+train_pc_ma_hv238_pc_ma_hv238_1235_5191.711_5196.1359999999995.wav,bordar
+train_pc_ma_hv014_pc_ma_hv014_1405_6365.851_6370.793.wav,trabalho eleitoral
+train_pc_ma_hv151_pc_ma_hv151_35_135.16_147.80.wav,nervosa
+train_pc_ma_hv053_pc_ma_hv053_1171_4653.97_4655.69.wav,yamanashi
+train_mb_hv102_mb_hv102_150_813.06_818.42.wav,moreiro teiba
+train_pc_ma_hv104_pc_ma_hv104_159_628.93_634.83.wav,mboi mirim
+train_mb_hv122_mb_hv122_371_1291.19_1293.45.wav,terçado
+train_pc_ma_hv018_pc_ma_hv018_286_1907.456_1912.2.wav,capela sistina
+train_pc_ma_hv062_pc_ma_hv062_1058_4719.569_4723.172.wav,burroughs
+train_pc_ma_hv240_pc_ma_hv240_436_1814.88_1817.581.wav,praça da república
+train_pc_ma_hv167_pc_ma_hv167_1480_5344.53_5348.75.wav,nova iorque
+train_pc_ma_hv072_pc_ma_hv072_76_401.90_408.41.wav,infância
+train_pc_ma_hv026_pc_ma_hv026_240_931.383_940.707.wav,banhozinho
+train_mb_hv107_mb_hv107_685_2627.98_2637.95.wav,promotor
+train_pc_ma_hv145_pc_ma_hv145_1253_4956.19_4965.37.wav,derrame
+train_pc_ma_hv270_pc_ma_hv270_705_3851.303_3855.026.wav,cêtésbe
+train_pc_ma_hv035_pc_ma_hv035_717_4200.40_4203.27.wav,ipiranga
+train_pc_ma_hv238_pc_ma_hv238_2654_11905.041000000001_11905.862000000001.wav,lei
+train_pc_ma_hv006_pc_ma_hv006_768_2774.639_2776.999.wav,avenida
+train_pc_ma_hv265_pc_ma_hv265_449_2210.55_2212.771.wav,macumbeiro
+train_pc_ma_hv234_pc_ma_hv234_1276_5996.226_5997.667.wav,maiara
+train_pc_ma_hv140_pc_ma_hv140_151_587.86_592.04.wav,fazenda
+train_pc_ma_hv263_pc_ma_hv263_561_2358.106_2370.094.wav,itatinga
+train_pc_ma_hv156_pc_ma_hv156_1428_9898.08_9909.83.wav,fau
+train_pc_ma_hv158_pc_ma_hv158_285_1605.76_1607.08.wav,camarins
+train_pc_ma_hv040_pc_ma_hv040_291_1048.15_1051.15.wav,"boquinha, diversão"
+train_pc_ma_hv267_pc_ma_hv267_401_1572.79_1575.431.wav,minas
+train_pc_ma_hv167_pc_ma_hv167_794_2932.35_2934.83.wav,jango
+train_pc_ma_hv017_pc_ma_hv017_1056_3823.401_3830.562.wav,sensibilidade
+train_pc_ma_hv116_pc_ma_hv116_764_3526.70_3531.88.wav,paraty
+train_pc_ma_hv029_pc_ma_hv029_795_2513.71_2517.59.wav,calça
+train_pc_ma_hv043_pc_ma_hv043_101_463.77_468.256.wav,heródoto
+train_pc_ma_hv014_pc_ma_hv014_32_113.137_119.721.wav,juctiba
+train_pc_ma_hv134_pc_ma_hv134_1175_5672.28_5678.65.wav,gerontóloga
+train_pc_ma_hv272_pc_ma_hv272_599_2710.66_2715.0209999999997.wav,mal-humorado
+train_mb_hv128_mb_hv128_16_85.30_88.60.wav,senhora
+train_mb_hv105_mb_hv105_571_2069.99_2075.13.wav,batelão
+train_pc_ma_hv038_pc_ma_hv038_689_3028.78_3032.87.wav,datilografia
+train_pc_ma_hv238_pc_ma_hv238_261_1104.472_1105.7730000000001.wav,estrela
+train_pc_ma_hv151_pc_ma_hv151_899_2613.86_2614.56.wav,ponto turístico
+train_pc_ma_hv266_pc_ma_hv266_2574_7918.714_7922.537.wav,farda
+train_pc_ma_hv036_pc_ma_hv036_651_3412.03_3413.99.wav,clóvis
+train_pc_ma_hv073_pc_ma_hv073_893_4058.40_4063.72.wav,"mildred, creche"
+train_pc_ma_hv136_pc_ma_hv136_217_1222.50_1233.09.wav,mãe
+train_mb_hv106_mb_hv106_161_677.06_685.46.wav,"várzea, piracucu, coagido"
+train_pc_ma_hv127_pc_ma_hv127_1286_6298.78_6301.90.wav,lata
+train_mb_hv131_mb_hv131_83_298.19_299.55.wav,mandioca
+train_pc_ma_hv204_pc_ma_hv204_458_2145.3109999999997_2154.113.wav,avenida rangel pestana
+train_pc_ma_hv249_pc_ma_hv249_342_1646.4959999999999_1653.0629999999999.wav,caio prada
+train_mb_hv132_mb_hv132_685_2317.28_2325.13.wav,peão
+train_pc_ma_hv144_pc_ma_hv144_575_3956.217_3961.06.wav,brasília
+train_mb_hv133_mb_hv133_741_2091.70_2094.38.wav,cozinhas
+train_pc_ma_hv215_pc_ma_hv215_796_2975.004_2976.645.wav,mano
+train_pc_ma_hv020_pc_ma_hv020_1486_5701.668_5703.63.wav,hierarquia
+train_pc_ma_hv270_pc_ma_hv270_236_1351.8509999999999_1355.814.wav,tia gula
+train_mb_hv090_mb_hv090_557_1847.37_1852.73.wav,bom jesus da lapa
+train_pc_ma_hv072_pc_ma_hv072_234_1300.85_1329.86.wav,fleb hood phineas africa
+train_pc_ma_hv249_pc_ma_hv249_1592_8103.143_8107.864.wav,universidade
+train_pc_ma_hv042_pc_ma_hv042_141_723.925_726.087.wav,doutor
+train_pc_ma_hv258_pc_ma_hv258_501_3109.972_3115.654.wav,luxtraí
+train_pc_ma_hv134_pc_ma_hv134_678_3062.15_3066.36.wav,meeiro
+train_pc_ma_hv062_pc_ma_hv062_1529_6974.684_6976.025.wav,nicarágua
+train_pc_ma_hv177_pc_ma_hv177_353_2261.84_2267.45.wav,fazendo as pazes
+train_pc_ma_hv014_pc_ma_hv014_697_2847.114_2853.055.wav,água encanada
+train_pc_ma_hv083_pc_ma_hv083_121_675.52_676.71.wav,rua guaianazes
+train_mb_hv131_mb_hv131_186_625.08_629.66.wav,dia sete
+train_pc_ma_hv194_pc_ma_hv194_1240_5090.23_5118.26.wav,"enriquecer, acervo"
+train_pc_ma_hv024_pc_ma_hv024_576_4537.22_4539.742.wav,na ativa
+train_pc_ma_hv178_pc_ma_hv178_1750_7033.67_7039.44.wav,"missão, beneditino"
+train_pc_ma_hv238_pc_ma_hv238_2489_11087.645_11090.406.wav,muvuca
+train_pc_ma_hv127_pc_ma_hv127_1528_7617.07_7619.97.wav,aria
+train_mb_hv105_mb_hv105_452_1647.54_1652.04.wav,saiona
+train_mb_hv129_mb_hv129_487_1247.94_1251.76.wav,rondônia
+train_pc_ma_hv259_pc_ma_hv259_1349_6344.887_6349.768.wav,antigo
+train_pc_ma_hv087_pc_ma_hv087_940_4498.08_4513.65.wav,"sharp, simp"
+train_mb_hv129_mb_hv129_106_257.68_260.89.wav,"estopa, calafetar"
+train_pc_ma_hv157_pc_ma_hv157_152_891.23_896.35.wav,quartos
+train_pc_ma_hv266_pc_ma_hv266_2381_7339.318_7345.146.wav,bairro
+train_mb_hv101_mb_hv101_583_1933.88_1938.85.wav,grelar
+train_pc_ma_hv078_pc_ma_hv078_772_3034.41_3041.65.wav,pares de sapato
+train_pc_ma_hv273_pc_ma_hv273_85_674.596_675.457.wav,passanel
+train_pc_ma_hv262_pc_ma_hv262_651_4553.283_4563.066.wav,graac
+train_pc_ma_hv136_pc_ma_hv136_372_2070.18_2076.83.wav,campos do jordão
+train_pc_ma_hv224_pc_ma_hv224_938_3022.102_3023.143.wav,jânio quadros
+train_pc_ma_hv140_pc_ma_hv140_531_2344.29_2348.57.wav,nossa senhora
+train_pc_ma_hv030_pc_ma_hv030_906_3611.205_3615.487.wav,expressão
+train_pc_ma_hv098_pc_ma_hv098_1062_4407.33_4411.09.wav,seda
+train_pc_ma_hv235_pc_ma_hv235_2156_6892.795_6899.820000000001.wav,"santa izildinha, fazer xixi"
+train_pc_ma_hv194_pc_ma_hv194_268_1015.55_1017.37.wav,baile maior pau
+train_pc_ma_hv136_pc_ma_hv136_1050_5931.11_5934.94.wav,
+train_pc_ma_hv085_pc_ma_hv085_511_2017.50_2020.65.wav,"soletura, ônibus"
+train_pc_ma_hv246_pc_ma_hv246_323_1688.623_1690.384.wav,estádio
+train_pc_ma_hv002_pc_ma_hv002_1258_5596.275_5600.298.wav,encosta
+train_pc_ma_hv048_pc_ma_hv048_248_1433.65_1434.91.wav,são paulo
+train_pc_ma_hv167_pc_ma_hv167_1465_5297.68_5300.14.wav,monza
+train_pc_ma_hv125_pc_ma_hv125_1210_5883.85_5884.65.wav,"menino, globo"
+train_pc_ma_hv110_pc_ma_hv110_1373_6446.89_6453.59.wav,"rezada, missa, saúde"
+train_pc_ma_hv137_pc_ma_hv137_740_4094.02_4096.64.wav,reação
+train_pc_ma_hv182_pc_ma_hv182_617_3466.032_3491.743.wav,maputi
+train_pc_ma_hv034_pc_ma_hv034_46_423.73_429.68.wav,orfeão
+train_mb_hv130_mb_hv130_156_591.30_593.94.wav,seringal
+train_mb_hv101_mb_hv101_812_2684.62_2686.07.wav,fundura
+train_pc_ma_hv204_pc_ma_hv204_737_3462.986_3469.511.wav,mugimirim
+train_pc_ma_hv164_pc_ma_hv164_404_2103.47_2105.55.wav,casados
+train_pc_ma_hv213_pc_ma_hv213_1463_8201.109999999999_8203.131.wav,fortal
+train_pc_ma_hv229_pc_ma_hv229_476_2292.4860000000003_2293.5660000000003.wav,sala de quinta
+train_mb_hv115_mb_hv115_950_4124.84_4131.66.wav,"lba, palha"
+train_pc_ma_hv270_pc_ma_hv270_497_2750.348_2755.012.wav,costa manso
+train_pc_ma_hv224_pc_ma_hv224_1697_5341.226_5343.687.wav,criados
+train_pc_ma_hv071_pc_ma_hv071_382_1547.23_1550.04.wav,"fantasias, senhora"
+train_pc_ma_hv140_pc_ma_hv140_39_139.66_141.26.wav,vila
+train_mb_hv126_mb_hv126_1029_3294.15_3298.85.wav,a pé
+train_pc_ma_hv167_pc_ma_hv167_479_1785.75_1787.61.wav,"alérgico, asmático"
+train_pc_ma_hv030_pc_ma_hv030_367_1523.978_1530.04.wav,parafarruts
+train_pc_ma_hv043_pc_ma_hv043_315_1393.97_1399.471.wav,anúncios
+train_pc_ma_hv013_pc_ma_hv013_539_2017.846_2022.749.wav,nossa senhora aparecida
+train_pc_ma_hv043_pc_ma_hv043_618_2703.289_2707.711.wav,santa inês
+train_pc_ma_hv191_pc_ma_hv191_617_2794.45_2798.01.wav,jacy
+train_pc_ma_hv266_pc_ma_hv266_2791_8631.965_8633.465.wav,instituição
+train_pc_ma_hv149_pc_ma_hv149_706_3136.83_3138.33.wav,nasceu
+train_pc_ma_hv234_pc_ma_hv234_1393_6465.406_6468.027.wav,senhor
+train_pc_ma_hv206_pc_ma_hv206_963_5300.977000000001_5303.919000000001.wav,política
+train_pc_ma_hv051_pc_ma_hv051_185_1243.32_1244.06.wav,área artística
+train_pc_ma_hv098_pc_ma_hv098_642_2562.01_2564.23.wav,geladeira
+train_mb_hv126_mb_hv126_1784_5521.57_5522.79.wav,vida
+train_pc_ma_hv074_pc_ma_hv074_684_2332.67_2333.34.wav,contato
+train_pc_ma_hv217_pc_ma_hv217_184_977.363_981.886.wav,lanchonete
+train_pc_ma_hv235_pc_ma_hv235_1878_6009.261_6010.8820000000005.wav,um terço
+train_pc_ma_hv005_pc_ma_hv005_779_4982.875_4987.837.wav,assiste
+train_pc_ma_hv238_pc_ma_hv238_2617_11688.6_11690.861.wav,falaram
+train_pc_ma_hv196_pc_ma_hv196_286_1406.29_1411.06.wav,sesi
+train_pc_ma_hv151_pc_ma_hv151_41_169.75_171.01.wav,pé de araçazeiro
+train_pc_ma_hv057_pc_ma_hv057_1145_5361.00_5367.29.wav,teatro-educação
+train_mb_hv130_mb_hv130_1215_4310.49_4319.87.wav,arvoredo
+train_pc_ma_hv025_pc_ma_hv025_391_2065.097_2066.858.wav,tchekhov dostoyesvky
+train_pc_ma_hv230_pc_ma_hv230_250_1077.413_1089.2350000000001.wav,"ministro cezino, rua clodomiro "
+train_mb_hv104_mb_hv104_411_2164.47_2170.95.wav,macurikanã
+train_pc_ma_hv235_pc_ma_hv235_351_1274.413_1276.714.wav,vinho
+train_pc_ma_hv242_pc_ma_hv242_845_3452.287_3453.649.wav,corinthians
+train_mb_hv124_mb_hv124_10_52.86_55.04.wav,capanema
+train_mb_hv133_mb_hv133_387_1075.35_1080.49.wav,surubim
+train_pc_ma_hv091_pc_ma_hv091_489_2094.35_2095.47.wav,vizinhos
+train_pc_ma_hv168_pc_ma_hv168_43_211.94_236.21.wav,viúvo
+train_mb_hv130_mb_hv130_1035_3704.57_3706.33.wav,pescam
+train_pc_ma_hv146_pc_ma_hv146_658_3804.23_3816.16.wav,obaluiaê
+train_pc_ma_hv092_pc_ma_hv092_500_3222.56_3232.39.wav,anhembi
+train_pc_ma_hv213_pc_ma_hv213_1371_7655.076_7662.282.wav,bach
+train_pc_ma_hv069_pc_ma_hv069_598_2873.55_2874.47.wav,tocando
+train_pc_ma_hv144_pc_ma_hv144_94_723.204_736.582.wav,shena
+train_pc_ma_hv093_pc_ma_hv093_302_1515.00_1523.03.wav,bonde
+train_pc_ma_hv211_pc_ma_hv211_988_4760.713000000001_4767.077.wav,dormência
+train_pc_ma_hv125_pc_ma_hv125_430_2240.34_2248.50.wav,jogar confete
+train_pc_ma_hv030_pc_ma_hv030_741_3058.096_3062.357.wav,rottweiler
+train_pc_ma_hv149_pc_ma_hv149_37_155.47_160.11.wav,senhora
+train_pc_ma_hv028_pc_ma_hv028_623_4379.522_4386.067.wav,verba
+train_pc_ma_hv164_pc_ma_hv164_171_850.05_853.39.wav,plamitau
+train_mb_hv104_mb_hv104_865_4334.70_4335.89.wav,maxixe
+train_pc_ma_hv145_pc_ma_hv145_350_1532.89_1533.93.wav,molho de tomate
+train_pc_ma_hv012_pc_ma_hv012_555_2235.83_2244.572.wav,editório
+train_pc_ma_hv213_pc_ma_hv213_1031_5737.981000000001_5740.282.wav,lugares marcantes
+train_mb_hv101_mb_hv101_541_1803.92_1807.26.wav,desfilha
+train_pc_ma_hv115_pc_ma_hv115_150_483.24_484.64.wav,kamikaze
+train_pc_ma_hv128_pc_ma_hv128_494_2579.65_2585.34.wav,playboysada
+train_pc_ma_hv160_pc_ma_hv160_324_1663.94_1670.12.wav,mogi
+train_pc_ma_hv240_pc_ma_hv240_19_106.02_108.441.wav,"san nicola, litorânea"
+train_pc_ma_hv136_pc_ma_hv136_1740_10169.99_10173.19.wav,berti
+train_pc_ma_hv167_pc_ma_hv167_975_3554.64_3559.85.wav,operador máximo
+train_pc_ma_hv005_pc_ma_hv005_589_3836.67_3846.617.wav,jeep
+train_pc_ma_hv028_pc_ma_hv028_831_6143.157_6149.34.wav,relação candidato vaga
+train_pc_ma_hv060_pc_ma_hv060_221_1061.33_1067.48.wav,se be 
+train_mb_hv106_mb_hv106_399_1567.88_1569.61.wav,"farinha, carros-chefe"
+train_pc_ma_hv108_pc_ma_hv108_413_1649.94_1655.34.wav,"lacoupole, saint-german-des-prés"
+train_pc_ma_hv086_pc_ma_hv086_256_1319.84_1322.66.wav,cheiro
+train_mb_hv127_mb_hv127_765_2269.41_2270.41.wav,cila
+train_mb_hv117_mb_hv117_466_2055.28_2066.22.wav,primeiras ações
+train_pc_ma_hv196_pc_ma_hv196_695_3216.89_3220.35.wav,aeronáutica
+train_pc_ma_hv178_pc_ma_hv178_2873_11487.81_11489.87.wav,loteria
+train_pc_ma_hv109_pc_ma_hv109_393_2550.40_2556.72.wav,mauro maurois
+train_mb_hv115_mb_hv115_1116_4816.34_4821.91.wav,juruti
+train_pc_ma_hv240_pc_ma_hv240_40_214.64_220.22099999999998.wav,nora
+train_pc_ma_hv012_pc_ma_hv012_8_16.615_17.475.wav,avós
+train_mb_hv122_mb_hv122_840_3022.05_3042.91.wav,palha verde
+train_pc_ma_hv135_pc_ma_hv135_1082_4812.79_4814.07.wav,negocinho
+train_mb_hv126_mb_hv126_1437_4461.10_4465.72.wav,ouro
+train_pc_ma_hv197_pc_ma_hv197_1163_4652.15_4658.03.wav,peitos
+train_pc_ma_hv194_pc_ma_hv194_1037_4209.35_4211.39.wav,samba rock
+train_pc_ma_hv211_pc_ma_hv211_821_3820.697_3821.778.wav,camelo
+train_pc_ma_hv266_pc_ma_hv266_18_90.26100000000001_99.048.wav,livre
+train_pc_ma_hv078_pc_ma_hv078_777_3052.75_3057.11.wav,hélio
+train_pc_ma_hv019_pc_ma_hv019_1014_5188.319_5191.62.wav,albert camus
+train_pc_ma_hv006_pc_ma_hv006_958_3565.439_3572.582.wav,sarampo
+train_pc_ma_hv228_pc_ma_hv228_414_1838.757_1846.2610000000002.wav,"bivenito granda, miguel aceves verrias"
+train_pc_ma_hv270_pc_ma_hv270_689_3753.305_3758.546.wav,biólogos
+train_mb_hv109_mb_hv109_717_3583.57_3590.36.wav,mundurucus
+train_pc_ma_hv085_pc_ma_hv085_1550_6236.35_6241.42.wav,caraguá ilhabela
+train_pc_ma_hv206_pc_ma_hv206_376_2207.33_2221.62.wav,fazendeiro
+train_pc_ma_hv115_pc_ma_hv115_462_1474.74_1479.20.wav,plantei
