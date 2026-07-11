@@ -1,0 +1,520 @@
+file_name,text,terms,pronunciations,voice,speed,language
+audio/0.wav,Precisamos discutir a integração do VectorCapsule na nossa infraestrutura de TI.,['VectorCapsule'],['Véctor Cápsul'],pf_dora,1.2,p
+audio/1.wav,O CryptograConnect será essencial para garantir a segurança dos dados na nova plataforma.,['CryptograConnect'],['Críptogrã conéct'],pm_alex,1.1,p
+audio/2.wav,A equipe está trabalhando na implementação do GatewayGlyph para melhorar a conectividade.,['GatewayGlyph'],['Guêitaway Gláif'],pm_santa,1.3,p
+audio/3.wav,O CloudSequin foi atualizado para suportar maior volume de dados.,['CloudSequin'],['Cláud Sékuin'],pf_dora,1.2,p
+audio/4.wav,Precisamos revisar o desempenho do SoundCloudMatrix na última análise de mercado.,['SoundCloudMatrix'],['Sáund Cláud Meitriks'],pm_alex,1.1,p
+audio/5.wav,A integração do HydroMod com nossos sistemas de energia está em andamento.,['HydroMod'],['ráidro moud'],pm_santa,1.2,p
+audio/6.wav,O EtherEcho será apresentado na próxima reunião de tecnologia.,['EtherEcho'],['îther Ékow'],pf_dora,1.2,p
+audio/7.wav,A equipe de desenvolvimento está testando o NanoSwarm para otimizar a produção.,['NanoSwarm'],['Nano suãrm'],pm_alex,1,p
+audio/8.wav,O QuantumQuilt está sendo considerado para o novo projeto de pesquisa.,['QuantumQuilt'],['Quantum kuiilt'],pm_alex,1.3,p
+audio/9.wav,A implementação do CloudCane deve ser concluída até o final do mês.,['CloudCane'],['Cláud quêin'],pm_alex,1,p
+audio/10.wav,O FusionField está mostrando resultados promissores na fase de testes.,['FusionField'],['FújionFiild'],pf_dora,1.1,p
+audio/11.wav,Precisamos agendar uma reunião para discutir o progresso do CellPrep.,['CellPrep'],['Cél Prép'],pm_santa,1.2,p
+audio/12.wav,O QuantumNest será o foco da próxima apresentação de tecnologia.,['QuantumNest'],['Quantum Nest'],pm_alex,1.1,p
+audio/13.wav,A equipe de engenharia está trabalhando na integração do WispSatellite.,['WispSatellite'],['uísp Sáteláit'],pm_santa,1.3,p
+audio/14.wav,O PolarityPulse está sendo testado para melhorar a eficiência energética.,['PolarityPulse'],['Poláritii Pûlss'],pm_santa,1.4,p
+audio/15.wav,Precisamos revisar os resultados do GlitterNet na última análise de desempenho.,['GlitterNet'],['Glíter Nét'],pf_dora,1.3,p
+audio/16.wav,A implementação do FusionFrost está prevista para o próximo trimestre.,['FusionFrost'],['Fûsion Fróst'],pf_dora,1.4,p
+audio/17.wav,O FiberFlux será essencial para a nova infraestrutura de rede.,['FiberFlux'],['Fáiber Flúks'],pm_santa,1.3,p
+audio/18.wav,Precisamos discutir a integração do IntelSpectra na nossa plataforma de dados.,['IntelSpectra'],['Intél Spéctrá'],pm_alex,1.2,p
+audio/19.wav,O TerabyteTerrain está sendo considerado para o novo projeto de armazenamento.,['TerabyteTerrain'],['Térabáite Terrêin'],pm_santa,1.1,p
+audio/20.wav,A integração do VectorCapsule com o CryptograConnect está em fase de testes.,"['VectorCapsule', 'CryptograConnect']","['Véctor Cápsul', 'Críptogrã conéct']",pf_dora,1.1,p
+audio/21.wav,Precisamos revisar a conectividade entre o GatewayGlyph e o CloudSequin.,"['GatewayGlyph', 'CloudSequin']","['Guêitaway Gláif', 'Cláud Sékuin']",pf_dora,1.1,p
+audio/22.wav,O desempenho do SoundCloudMatrix e do HydroMod será discutido na próxima reunião.,"['SoundCloudMatrix', 'HydroMod']","['Sáund Cláud Meitriks', 'ráidro moud']",pm_santa,1.2,p
+audio/23.wav,A equipe está testando a compatibilidade entre o EtherEcho e o NanoSwarm.,"['EtherEcho', 'NanoSwarm']","['îther Ékow', 'Nano suãrm']",pf_dora,1.1,p
+audio/24.wav,O QuantumQuilt e o CloudCane serão apresentados na conferência de tecnologia.,"['QuantumQuilt', 'CloudCane']","['Quantum kuiilt', 'Cláud quêin']",pm_alex,1,p
+audio/25.wav,Precisamos agendar uma reunião para discutir o progresso do FusionField e do CellPrep.,"['FusionField', 'CellPrep']","['FújionFiild', 'Cél Prép']",pm_santa,1.3,p
+audio/26.wav,A integração do QuantumNest com o WispSatellite está em andamento.,"['QuantumNest', 'WispSatellite']","['Quantum Nest', 'uísp Sáteláit']",pm_santa,1.2,p
+audio/27.wav,O PolarityPulse e o GlitterNet estão mostrando resultados promissores na fase de testes.,"['PolarityPulse', 'GlitterNet']","['Poláritii Pûlss', 'Glíter Nét']",pm_santa,1.1,p
+audio/28.wav,A implementação do FusionFrost e do FiberFlux está prevista para o próximo trimestre.,"['FusionFrost', 'FiberFlux']","['Fûsion Fróst', 'Fáiber Flúks']",pm_alex,1.2,p
+audio/29.wav,Precisamos discutir a integração do IntelSpectra e do TerabyteTerrain na nossa plataforma de dados.,"['IntelSpectra', 'TerabyteTerrain']","['Intél Spéctrá', 'Térabáite Terrêin']",pm_santa,1.3,p
+audio/30.wav,A equipe está trabalhando na integração do VectorCapsule com o GatewayGlyph.,"['VectorCapsule', 'GatewayGlyph']","['Véctor Cápsul', 'Guêitaway Gláif']",pm_santa,1.2,p
+audio/31.wav,O CryptograConnect e o CloudSequin serão essenciais para garantir a segurança dos dados.,"['CryptograConnect', 'CloudSequin']","['Críptogrã conéct', 'Cláud Sékuin']",pm_alex,1.3,p
+audio/32.wav,Precisamos revisar o desempenho do SoundCloudMatrix e do HydroMod na última análise de mercado.,"['SoundCloudMatrix', 'HydroMod']","['Sáund Cláud Meitriks', 'ráidro moud']",pm_alex,1.4,p
+audio/33.wav,A equipe de desenvolvimento está testando o EtherEcho e o NanoSwarm para otimizar a produção.,"['EtherEcho', 'NanoSwarm']","['îther Ékow', 'Nano suãrm']",pm_alex,1.1,p
+audio/34.wav,O QuantumQuilt e o CloudCane estão sendo considerados para o novo projeto de pesquisa.,"['QuantumQuilt', 'CloudCane']","['Quantum kuiilt', 'Cláud quêin']",pm_santa,1.3,p
+audio/35.wav,Precisamos agendar uma reunião para discutir o progresso do FusionField e do CellPrep.,"['FusionField', 'CellPrep']","['FújionFiild', 'Cél Prép']",pm_santa,1.3,p
+audio/36.wav,A equipe de engenharia está trabalhando na integração do QuantumNest e do WispSatellite.,"['QuantumNest', 'WispSatellite']","['Quantum Nest', 'uísp Sáteláit']",pm_santa,1.1,p
+audio/37.wav,O PolarityPulse e o GlitterNet estão sendo testados para melhorar a eficiência energética.,"['PolarityPulse', 'GlitterNet']","['Poláritii Pûlss', 'Glíter Nét']",pm_alex,1.4,p
+audio/38.wav,A implementação do FusionFrost e do FiberFlux está prevista para o próximo trimestre.,"['FusionFrost', 'FiberFlux']","['Fûsion Fróst', 'Fáiber Flúks']",pm_santa,1.1,p
+audio/39.wav,Precisamos discutir a integração do IntelSpectra e do TerabyteTerrain na nossa plataforma de dados.,"['IntelSpectra', 'TerabyteTerrain']","['Intél Spéctrá', 'Térabáite Terrêin']",pm_santa,1.4,p
+audio/40.wav,Precisamos revisar os dados coletados pelo InfluxInspector antes da reunião de amanhã.,['InfluxInspector'],['Influx Inspéctor'],pf_dora,1.1,p
+audio/41.wav,A equipe de desenvolvimento está integrando o CloudSpecter ao nosso sistema de armazenamento.,['CloudSpecter'],['Cláud Spéctér'],pf_dora,1.2,p
+audio/42.wav,O novo recurso do AppSynth.NET será apresentado na conferência de tecnologia.,['AppSynth.NET'],['AppSynth dóth néth'],pf_dora,1.3,p
+audio/43.wav,A migração para o VirtuStream está programada para o próximo trimestre.,['VirtuStream'],['Virtu Striim'],pm_alex,1.4,p
+audio/44.wav,O HackHarvester identificou várias vulnerabilidades no nosso sistema de segurança.,['HackHarvester'],['rák Rárvestêer'],pm_santa,1.2,p
+audio/45.wav,A interface do HexHalo foi atualizada para melhorar a experiência do usuário.,['HexHalo'],['réks rálou'],pm_alex,1.1,p
+audio/46.wav,O PixelPainter será utilizado para criar os gráficos do relatório anual.,['PixelPainter'],['Piksel Péinter'],pm_alex,1.2,p
+audio/47.wav,A funcionalidade do VortexScroll está sendo testada pela equipe de QA.,['VortexScroll'],['Vôrtéks Scrou'],pm_santa,1.3,p
+audio/48.wav,A integração com a ParaChain vai aumentar a eficiência das nossas operações.,['ParaChain'],['Pára Tchéin'],pm_santa,1.2,p
+audio/49.wav,O PrograPrint será essencial para automatizar os processos de impressão.,['PrograPrint'],['Prowgrâ Prînt'],pm_santa,1.2,p
+audio/50.wav,O lançamento do BetaBolt está previsto para o próximo mês.,['BetaBolt'],['BétaBolt'],pm_santa,1.3,p
+audio/51.wav,A segurança do HexHive foi reforçada após a última auditoria.,['HexHive'],['réx ráiv'],pm_santa,1.3,p
+audio/52.wav,O QuantumLock garantirá a proteção dos nossos dados sensíveis.,['QuantumLock'],['Quantum lók'],pf_dora,1.4,p
+audio/53.wav,A arquitetura do StratoFrame será discutida na reunião de design.,['StratoFrame'],['Strátow Fréim'],pm_alex,1.1,p
+audio/54.wav,Os NexGenNodes serão implementados na nova versão do software.,['NexGenNodes'],['Néks djên Nouds'],pm_alex,1.1,p
+audio/55.wav,O EmpyrealFrame está sendo utilizado para criar modelos 3D avançados.,['EmpyrealFrame'],['Empíriãl Freim'],pf_dora,1.4,p
+audio/56.wav,A conectividade do IoTBridge será crucial para o projeto de automação.,['IoTBridge'],['ái ou tí brídj'],pf_dora,1.2,p
+audio/57.wav,O CyberneticCelcius está monitorando a temperatura dos servidores.,['CyberneticCelcius'],['Sáibernétik Célcius'],pm_alex,1.4,p
+audio/58.wav,A integração com o ZettaLink vai melhorar a comunicação entre os departamentos.,['ZettaLink'],['Zéta Línk'],pm_santa,1.2,p
+audio/59.wav,O feedback do UserPosit será utilizado para aprimorar a interface do usuário.,['UserPosit'],['úsêr Pôusit'],pf_dora,1.3,p
+audio/60.wav,O InfluxInspector e o CloudSpecter serão os principais tópicos da reunião de hoje.,"['InfluxInspector', 'CloudSpecter']","['Influx Inspéctor', 'Cláud Spéctér']",pm_alex,1.1,p
+audio/61.wav,A equipe está trabalhando na integração do AppSynth.NET com o VirtuStream.,"['AppSynth.NET', 'VirtuStream']","['AppSynth dóth néth', 'Virtu Striim']",pf_dora,1.2,p
+audio/62.wav,O HackHarvester identificou problemas na interface do HexHalo.,"['HackHarvester', 'HexHalo']","['rák Rárvestêer', 'réks rálou']",pf_dora,1.3,p
+audio/63.wav,O PixelPainter e o VortexScroll serão utilizados para criar o novo design.,"['PixelPainter', 'VortexScroll']","['Piksel Péinter', 'Vôrtéks Scrou']",pf_dora,1,p
+audio/64.wav,A ParaChain e o PrograPrint serão discutidos na próxima reunião de tecnologia.,"['ParaChain', 'PrograPrint']","['Pára Tchéin', 'Prowgrâ Prînt']",pm_alex,1,p
+audio/65.wav,O BetaBolt e o HexHive serão lançados juntos no próximo evento.,"['BetaBolt', 'HexHive']","['BétaBolt', 'réx ráiv']",pf_dora,1.1,p
+audio/66.wav,O QuantumLock e o StratoFrame são essenciais para a segurança do sistema.,"['QuantumLock', 'StratoFrame']","['Quantum lók', 'Strátow Fréim']",pm_alex,1.2,p
+audio/67.wav,Os NexGenNodes e o EmpyrealFrame serão apresentados na conferência de inovação.,"['NexGenNodes', 'EmpyrealFrame']","['Néks djên Nouds', 'Empíriãl Freim']",pm_alex,1.3,p
+audio/68.wav,O IoTBridge e o CyberneticCelcius estão sendo testados pela equipe de desenvolvimento.,"['IoTBridge', 'CyberneticCelcius']","['ái ou tí brídj', 'Sáibernétik Célcius']",pm_alex,1.4,p
+audio/69.wav,O ZettaLink e o UserPosit serão integrados ao novo sistema de comunicação.,"['ZettaLink', 'UserPosit']","['Zéta Línk', 'úsêr Pôusit']",pm_santa,1.1,p
+audio/70.wav,"O InfluxInspector, o CloudSpecter e o AppSynth.NET serão os principais tópicos da reunião de tecnologia.","['InfluxInspector', 'CloudSpecter', 'AppSynth.NET']","['Influx Inspéctor', 'Cláud Spéctér', 'AppSynth dóth néth']",pm_santa,1.1,p
+audio/71.wav,"O VirtuStream, o HackHarvester e o HexHalo serão discutidos na próxima reunião de segurança.","['VirtuStream', 'HackHarvester', 'HexHalo']","['Virtu Striim', 'rák Rárvestêer', 'réks rálou']",pf_dora,1.3,p
+audio/72.wav,"O PixelPainter, o VortexScroll e a ParaChain serão utilizados para criar o novo design.","['PixelPainter', 'VortexScroll', 'ParaChain']","['Piksel Péinter', 'Vôrtéks Scrou', 'Pára Tchéin']",pm_alex,1.3,p
+audio/73.wav,"O PrograPrint, o BetaBolt e o HexHive serão lançados juntos no próximo evento.","['PrograPrint', 'BetaBolt', 'HexHive']","['Prowgrâ Prînt', 'BétaBolt', 'réx ráiv']",pf_dora,1.2,p
+audio/74.wav,"O QuantumLock, o StratoFrame e os NexGenNodes são essenciais para a segurança do sistema.","['QuantumLock', 'StratoFrame', 'NexGenNodes']","['Quantum lók', 'Strátow Fréim', 'Néks djên Nouds']",pf_dora,1.4,p
+audio/75.wav,"O EmpyrealFrame, o IoTBridge e o CyberneticCelcius estão sendo testados pela equipe de desenvolvimento.","['EmpyrealFrame', 'IoTBridge', 'CyberneticCelcius']","['Empíriãl Freim', 'ái ou tí brídj', 'Sáibernétik Célcius']",pf_dora,1.4,p
+audio/76.wav,"O ZettaLink, o UserPosit e o InfluxInspector serão integrados ao novo sistema de comunicação.","['ZettaLink', 'UserPosit', 'InfluxInspector']","['Zéta Línk', 'úsêr Pôusit', 'Influx Inspéctor']",pm_santa,1.3,p
+audio/77.wav,"O CloudSpecter, o AppSynth.NET e o VirtuStream serão os principais tópicos da reunião de tecnologia.","['CloudSpecter', 'AppSynth.NET', 'VirtuStream']","['Cláud Spéctér', 'AppSynth dóth néth', 'Virtu Striim']",pm_alex,1.2,p
+audio/78.wav,"O HackHarvester, o HexHalo e o PixelPainter serão discutidos na próxima reunião de segurança.","['HackHarvester', 'HexHalo', 'PixelPainter']","['rák Rárvestêer', 'réks rálou', 'Piksel Péinter']",pm_alex,1.3,p
+audio/79.wav,Precisamos discutir a integração do AlphaChip na nossa nova linha de produtos.,['AlphaChip'],['Alfa tchip'],pm_alex,1.3,p
+audio/80.wav,O relatório sobre o desempenho do Gigabinder será apresentado na próxima reunião.,['Gigabinder'],['Gigabainder'],pm_santa,1.1,p
+audio/81.wav,A equipe de desenvolvimento está trabalhando na atualização do OptixOsiris.,['OptixOsiris'],['óptiks Osíris'],pm_alex,1.1,p
+audio/82.wav,A implementação do ParticlePump está prevista para o próximo trimestre.,['ParticlePump'],['Párticou Pãmp'],pm_alex,1,p
+audio/83.wav,O MelodicByte será o foco da nossa campanha de marketing este mês.,['MelodicByte'],['Melódic Báit'],pm_santa,1.1,p
+audio/84.wav,Precisamos revisar o contrato com o fornecedor do LinkLancer.,['LinkLancer'],['Link Lâncer'],pm_alex,1,p
+audio/85.wav,A segurança do CyberPulse foi aprimorada com as novas atualizações.,['CyberPulse'],['Sáiber Pulss'],pm_alex,1,p
+audio/86.wav,O XenonSwitch será testado na próxima fase do projeto.,['XenonSwitch'],['Zénum Suítch'],pf_dora,1.3,p
+audio/87.wav,A manutenção dos SereneServers está agendada para o fim de semana.,['SereneServers'],['Serín Sêrvers'],pm_santa,1.3,p
+audio/88.wav,O QuantumOracle está apresentando resultados promissores nas simulações.,['QuantumOracle'],['Quantum óracôu'],pm_santa,1.2,p
+audio/89.wav,A equipe de design está trabalhando na interface do PixelPivot.,['PixelPivot'],['Píksel Pívo'],pf_dora,1,p
+audio/90.wav,O CipherCircuit será integrado ao sistema de segurança da empresa.,['CipherCircuit'],['Sáifer Circuít'],pf_dora,1,p
+audio/91.wav,A nova versão do WebLoom será lançada no próximo mês.,['WebLoom'],['uéb Lúm'],pm_santa,1.3,p
+audio/92.wav,A produção dos SiliCells está dentro do cronograma.,['SiliCells'],['síli céls'],pf_dora,1.3,p
+audio/93.wav,O ArrayArc está sendo testado para garantir sua eficiência.,['ArrayArc'],['Arréi árc'],pf_dora,1,p
+audio/94.wav,O PlugPorter será distribuído para os clientes na próxima semana.,['PlugPorter'],['plâgue Pórter'],pm_santa,1.1,p
+audio/95.wav,O AccuFlow Handler está apresentando um desempenho excelente.,['AccuFlow Handler'],['AccuFlow rándler'],pm_alex,1.1,p
+audio/96.wav,A integração do AlphaMesh com o sistema atual foi concluída com sucesso.,['AlphaMesh'],['álfa Mésh'],pf_dora,1.4,p
+audio/97.wav,O VoltPump será o tema principal da nossa próxima reunião de tecnologia.,['VoltPump'],['Vôlt Pãmp'],pm_santa,1.4,p
+audio/98.wav,O CodeMeld está sendo utilizado para melhorar a eficiência dos nossos processos.,['CodeMeld'],['Cowd Méld'],pm_santa,1,p
+audio/99.wav,A combinação do AlphaChip com o Gigabinder está gerando resultados positivos.,"['AlphaChip', 'Gigabinder']","['Alfa tchip', 'Gigabainder']",pf_dora,1.1,p
+audio/100.wav,A integração do OptixOsiris com o ParticlePump está em fase de testes.,"['OptixOsiris', 'ParticlePump']","['óptiks Osíris', 'Párticou Pãmp']",pm_alex,1.2,p
+audio/101.wav,O MelodicByte e o LinkLancer serão apresentados na conferência de tecnologia.,"['MelodicByte', 'LinkLancer']","['Melódic Báit', 'Link Lâncer']",pm_santa,1.3,p
+audio/102.wav,A segurança do CyberPulse foi melhorada com a ajuda do XenonSwitch.,"['CyberPulse', 'XenonSwitch']","['Sáiber Pulss', 'Zénum Suítch']",pm_alex,1.1,p
+audio/103.wav,Os SereneServers estão sendo otimizados com o apoio do QuantumOracle.,"['SereneServers', 'QuantumOracle']","['Serín Sêrvers', 'Quantum óracôu']",pm_alex,1,p
+audio/104.wav,A interface do PixelPivot está sendo desenvolvida com base no CipherCircuit.,"['PixelPivot', 'CipherCircuit']","['Píksel Pívo', 'Sáifer Circuít']",pf_dora,1.1,p
+audio/105.wav,A nova versão do WebLoom será compatível com os SiliCells.,"['WebLoom', 'SiliCells']","['uéb Lúm', 'síli céls']",pm_alex,1.4,p
+audio/106.wav,O ArrayArc está sendo testado em conjunto com o PlugPorter.,"['ArrayArc', 'PlugPorter']","['Arréi árc', 'plâgue Pórter']",pf_dora,1.1,p
+audio/107.wav,O AccuFlow Handler está sendo integrado ao AlphaMesh para melhorar a eficiência.,"['AccuFlow Handler', 'AlphaMesh']","['AccuFlow rándler', 'álfa Mésh']",pf_dora,1.3,p
+audio/108.wav,O VoltPump está sendo utilizado em conjunto com o CodeMeld para otimizar os processos.,"['VoltPump', 'CodeMeld']","['Vôlt Pãmp', 'Cowd Méld']",pm_alex,1,p
+audio/109.wav,A equipe está trabalhando na integração do AlphaChip com o OptixOsiris.,"['AlphaChip', 'OptixOsiris']","['Alfa tchip', 'óptiks Osíris']",pf_dora,1.3,p
+audio/110.wav,O desempenho do Gigabinder está sendo analisado em conjunto com o ParticlePump.,"['Gigabinder', 'ParticlePump']","['Gigabainder', 'Párticou Pãmp']",pf_dora,1.2,p
+audio/111.wav,O MelodicByte está sendo utilizado para melhorar a segurança do CyberPulse.,"['MelodicByte', 'CyberPulse']","['Melódic Báit', 'Sáiber Pulss']",pm_alex,1.1,p
+audio/112.wav,O LinkLancer está sendo testado com o XenonSwitch para garantir sua eficiência.,"['LinkLancer', 'XenonSwitch']","['Link Lâncer', 'Zénum Suítch']",pf_dora,1.3,p
+audio/113.wav,Os SereneServers estão sendo otimizados com a ajuda do PixelPivot.,"['SereneServers', 'PixelPivot']","['Serín Sêrvers', 'Píksel Pívo']",pm_santa,1.3,p
+audio/114.wav,O QuantumOracle está sendo integrado ao CipherCircuit para melhorar os resultados.,"['QuantumOracle', 'CipherCircuit']","['Quantum óracôu', 'Sáifer Circuít']",pm_santa,1.3,p
+audio/115.wav,A nova versão do WebLoom será compatível com o ArrayArc.,"['WebLoom', 'ArrayArc']","['uéb Lúm', 'Arréi árc']",pf_dora,1.3,p
+audio/116.wav,Os SiliCells estão sendo testados em conjunto com o PlugPorter.,"['SiliCells', 'PlugPorter']","['síli céls', 'plâgue Pórter']",pf_dora,1.1,p
+audio/117.wav,O AccuFlow Handler está sendo utilizado para melhorar o desempenho do VoltPump.,"['AccuFlow Handler', 'VoltPump']","['AccuFlow rándler', 'Vôlt Pãmp']",pf_dora,1.4,p
+audio/118.wav,O AlphaMesh está sendo integrado ao CodeMeld para otimizar os processos.,"['AlphaMesh', 'CodeMeld']","['álfa Mésh', 'Cowd Méld']",pf_dora,1.3,p
+audio/119.wav,Precisamos revisar o relatório de desempenho do FlowMojo antes da reunião de amanhã.,['FlowMojo'],['Flow Mowdjo'],pf_dora,1.2,p
+audio/120.wav,A equipe de desenvolvimento está integrando o CogSync ao nosso sistema de gestão.,['CogSync'],['Cóg Sink'],pm_alex,1.1,p
+audio/121.wav,O DigiSphere será o foco principal da nossa apresentação na conferência de tecnologia.,['DigiSphere'],['Dígi Sfiir'],pm_alex,1.2,p
+audio/122.wav,A implementação do GrapheneGrid está prevista para o próximo trimestre.,['GrapheneGrid'],['Grafêine Grid'],pf_dora,1.3,p
+audio/123.wav,O GridGrafter está sendo testado para melhorar a eficiência energética dos nossos servidores.,['GridGrafter'],['Gríd Gráfter'],pm_santa,1.1,p
+audio/124.wav,Precisamos discutir a integração do GrooveGrid com o novo software de análise de dados.,['GrooveGrid'],['grûv gríd'],pm_alex,1.2,p
+audio/125.wav,A equipe de TI está trabalhando na atualização do SpectralScreen para aumentar a segurança.,['SpectralScreen'],['spéctrau scrín'],pm_alex,1.2,p
+audio/126.wav,O BitBlaze será utilizado para otimizar o processamento de grandes volumes de dados.,['BitBlaze'],['Bit Bleise'],pm_santa,1.4,p
+audio/127.wav,A apresentação sobre o ModalOrb está agendada para a próxima semana.,['ModalOrb'],['Môdal órb'],pm_alex,1.1,p
+audio/128.wav,O TwinSource está sendo considerado para a nova arquitetura de rede.,['TwinSource'],['Twin Sórce'],pf_dora,1.2,p
+audio/129.wav,A equipe de pesquisa está explorando as capacidades do NanoNest para projetos futuros.,['NanoNest'],['NanoNest'],pm_santa,1.3,p
+audio/130.wav,O CyberMesh será implementado para melhorar a conectividade entre os departamentos.,['CyberMesh'],['Sáiber Mésh'],pm_santa,1.1,p
+audio/131.wav,Precisamos avaliar o desempenho do ByteCruncher no processamento de dados financeiros.,['ByteCruncher'],['báit crãntiêr'],pf_dora,1.1,p
+audio/132.wav,A análise do SpectrumSpin será crucial para a nossa estratégia de marketing digital.,['SpectrumSpin'],['spéctrum spín'],pm_alex,1.3,p
+audio/133.wav,O DataFathom está sendo utilizado para prever tendências de mercado.,['DataFathom'],['Dáta Fádôm'],pm_alex,1.3,p
+audio/134.wav,A equipe de desenvolvimento está trabalhando na integração do ScriptGene com o sistema atual.,['ScriptGene'],['Scrípt Jeen'],pf_dora,1,p
+audio/135.wav,O KernelKeystone será o tema principal da nossa próxima reunião de inovação.,['KernelKeystone'],['Kêrnel quistôn'],pf_dora,1.1,p
+audio/136.wav,Precisamos revisar o contrato com a AlphaBitz antes de prosseguir com a parceria.,['AlphaBitz'],['álfa Bíts'],pm_alex,1.2,p
+audio/137.wav,A equipe de pesquisa está investigando as aplicações do QuantumFlux em nossos produtos.,['QuantumFlux'],['Quântum Flãks'],pf_dora,1.2,p
+audio/138.wav,O WirelessWhirl será testado para melhorar a conectividade dos dispositivos móveis.,['WirelessWhirl'],['uáirêless uãr'],pm_santa,1,p
+audio/139.wav,A integração entre FlowMojo e CogSync está mostrando resultados promissores.,"['FlowMojo', 'CogSync']","['Flow Mowdjo', 'Cóg Sink']",pm_alex,1.1,p
+audio/140.wav,A colaboração entre DigiSphere e GrapheneGrid está acelerando o desenvolvimento de novas tecnologias.,"['DigiSphere', 'GrapheneGrid']","['Dígi Sfiir', 'Grafêine Grid']",pm_santa,1.4,p
+audio/141.wav,O GridGrafter e o GrooveGrid estão sendo implementados para otimizar a infraestrutura de TI.,"['GridGrafter', 'GrooveGrid']","['Gríd Gráfter', 'grûv gríd']",pm_alex,1.3,p
+audio/142.wav,A atualização do SpectralScreen e a implementação do BitBlaze são prioridades para este trimestre.,"['SpectralScreen', 'BitBlaze']","['spéctrau scrín', 'Bit Bleise']",pm_alex,1.1,p
+audio/143.wav,A integração do ModalOrb com o TwinSource está em fase de testes.,"['ModalOrb', 'TwinSource']","['Môdal órb', 'Twin Sórce']",pm_alex,1.3,p
+audio/144.wav,O NanoNest e o CyberMesh estão sendo considerados para o novo projeto de rede.,"['NanoNest', 'CyberMesh']","['NanoNest', 'Sáiber Mésh']",pm_santa,1,p
+audio/145.wav,A análise do ByteCruncher e do SpectrumSpin será discutida na próxima reunião.,"['ByteCruncher', 'SpectrumSpin']","['báit crãntiêr', 'spéctrum spín']",pm_santa,1.3,p
+audio/146.wav,O DataFathom e o ScriptGene estão sendo utilizados para melhorar a precisão das previsões.,"['DataFathom', 'ScriptGene']","['Dáta Fádôm', 'Scrípt Jeen']",pm_alex,1.2,p
+audio/147.wav,A parceria entre KernelKeystone e AlphaBitz está trazendo inovações significativas.,"['KernelKeystone', 'AlphaBitz']","['Kêrnel quistôn', 'álfa Bíts']",pm_alex,1.3,p
+audio/148.wav,O QuantumFlux e o WirelessWhirl estão sendo testados para melhorar a conectividade.,"['QuantumFlux', 'WirelessWhirl']","['Quântum Flãks', 'uáirêless uãr']",pm_alex,1.4,p
+audio/149.wav,A colaboração entre FlowMojo e DigiSphere está gerando novas oportunidades de negócios.,"['FlowMojo', 'DigiSphere']","['Flow Mowdjo', 'Dígi Sfiir']",pm_alex,1.1,p
+audio/150.wav,A integração do CogSync com o GrapheneGrid está melhorando a eficiência dos processos.,"['CogSync', 'GrapheneGrid']","['Cóg Sink', 'Grafêine Grid']",pf_dora,1.2,p
+audio/151.wav,O GridGrafter e o SpectralScreen estão sendo atualizados para aumentar a segurança.,"['GridGrafter', 'SpectralScreen']","['Gríd Gráfter', 'spéctrau scrín']",pf_dora,1.1,p
+audio/152.wav,A equipe está trabalhando na integração do GrooveGrid com o BitBlaze.,"['GrooveGrid', 'BitBlaze']","['grûv gríd', 'Bit Bleise']",pf_dora,1.1,p
+audio/153.wav,O ModalOrb e o NanoNest estão sendo considerados para o novo projeto de inovação.,"['ModalOrb', 'NanoNest']","['Môdal órb', 'NanoNest']",pf_dora,1.4,p
+audio/154.wav,A integração do TwinSource com o CyberMesh está em fase de testes.,"['TwinSource', 'CyberMesh']","['Twin Sórce', 'Sáiber Mésh']",pm_santa,1.3,p
+audio/155.wav,O ByteCruncher e o DataFathom estão sendo utilizados para melhorar a análise de dados.,"['ByteCruncher', 'DataFathom']","['báit crãntiêr', 'Dáta Fádôm']",pm_alex,1.1,p
+audio/156.wav,A equipe está trabalhando na integração do SpectrumSpin com o ScriptGene.,"['SpectrumSpin', 'ScriptGene']","['spéctrum spín', 'Scrípt Jeen']",pf_dora,1.4,p
+audio/157.wav,A parceria entre KernelKeystone e QuantumFlux está trazendo inovações significativas.,"['KernelKeystone', 'QuantumFlux']","['Kêrnel quistôn', 'Quântum Flãks']",pm_alex,1.3,p
+audio/158.wav,O AlphaBitz e o WirelessWhirl estão sendo testados para melhorar a conectividade.,"['AlphaBitz', 'WirelessWhirl']","['álfa Bíts', 'uáirêless uãr']",pm_alex,1.2,p
+audio/159.wav,A equipe de desenvolvimento da CodeComet está trabalhando em uma nova funcionalidade para o nosso aplicativo.,['CodeComet'],['CoudeCómet'],pm_alex,1.1,p
+audio/160.wav,Precisamos discutir a integração do BlockCraft com nosso sistema de gestão de projetos.,['BlockCraft'],['Blók Cráft'],pm_alex,1,p
+audio/161.wav,A análise de dados da CloudVista será fundamental para nossa próxima campanha de marketing.,['CloudVista'],['Claud Vista'],pm_santa,1.2,p
+audio/162.wav,O relatório de desempenho do AppBleeder será apresentado na reunião de amanhã.,['AppBleeder'],['AppBliider'],pf_dora,1.4,p
+audio/163.wav,A equipe de TI está revisando o código do AppSynth.NET para otimizar a performance.,['AppSynth.NET'],['AppSynth dóth néth'],pm_santa,1.3,p
+audio/164.wav,A OmniReplica está desenvolvendo uma solução de backup que pode ser útil para nossa empresa.,['OmniReplica'],['õmní Réplíca'],pm_alex,1.3,p
+audio/165.wav,Precisamos verificar a compatibilidade do VectorSplice com nossos sistemas atuais.,['VectorSplice'],['Véctor Spláiss'],pm_alex,1.1,p
+audio/166.wav,A segurança dos dados fornecida pela CyberLobe é uma prioridade para nossa equipe de TI.,['CyberLobe'],['Sáiber Lób'],pm_santa,1.1,p
+audio/167.wav,O novo portfólio de produtos da FissionFolio será apresentado na conferência de tecnologia.,['FissionFolio'],['FíjionFólio'],pf_dora,1.2,p
+audio/168.wav,A análise de dados da DataCrafter nos ajudará a tomar decisões mais informadas.,['DataCrafter'],['Dáta Cráfter'],pf_dora,1.3,p
+audio/169.wav,A implementação dos NanoGrids pode reduzir nossos custos operacionais significativamente.,['NanoGrids'],['Nâno Gríds'],pm_santa,1.2,p
+audio/170.wav,A tecnologia de criptografia da CryptoGrafter será discutida na próxima reunião de segurança.,['CryptoGrafter'],['Crypto Gráfter'],pm_alex,1.1,p
+audio/171.wav,A integração do TransactNode com nosso sistema de pagamento está em andamento.,['TransactNode'],['TransactNoud'],pm_alex,1.3,p
+audio/172.wav,O Dataverse está oferecendo novas ferramentas de análise de dados que podem ser úteis para nossa equipe.,['Dataverse'],['dáta vârs'],pm_alex,1,p
+audio/173.wav,A LinkLattice está desenvolvendo uma nova plataforma de comunicação para empresas.,['LinkLattice'],['línk látiss'],pm_santa,1.3,p
+audio/174.wav,A segurança dos dados no CipherCanvas é uma das melhores do mercado.,['CipherCanvas'],['Saifêr Quênvas'],pm_alex,1.1,p
+audio/175.wav,A equipe de desenvolvimento está testando a nova versão do KernelKey.,['KernelKey'],['Kêrnél qui'],pm_santa,1.3,p
+audio/176.wav,O DigitDynamo está oferecendo uma solução inovadora para a gestão de dados.,['DigitDynamo'],['Dígit Dáinamo'],pm_santa,1.3,p
+audio/177.wav,A PixelPortal está lançando uma nova ferramenta de design gráfico.,['PixelPortal'],['PikselPôrtal'],pm_santa,1.3,p
+audio/178.wav,A tecnologia NanoAnode pode ser a chave para melhorar a eficiência energética de nossos servidores.,['NanoAnode'],['Nâno Anoud'],pm_alex,1.3,p
+audio/179.wav,A integração entre CodeComet e BlockCraft está sendo discutida na reunião de hoje.,"['CodeComet', 'BlockCraft']","['CoudeCómet', 'Blók Cráft']",pm_santa,1,p
+audio/180.wav,A análise de dados da CloudVista será combinada com os relatórios do AppBleeder.,"['CloudVista', 'AppBleeder']","['Claud Vista', 'AppBliider']",pm_alex,1.4,p
+audio/181.wav,A equipe de TI está revisando o código do AppSynth.NET e a solução de backup da OmniReplica.,"['AppSynth.NET', 'OmniReplica']","['AppSynth dóth néth', 'õmní Réplíca']",pm_alex,1.1,p
+audio/182.wav,Precisamos verificar a compatibilidade do VectorSplice e a segurança dos dados fornecida pela CyberLobe.,"['VectorSplice', 'CyberLobe']","['Véctor Spláiss', 'Sáiber Lób']",pm_santa,1.3,p
+audio/183.wav,O novo portfólio de produtos da FissionFolio e a análise de dados da DataCrafter serão apresentados na conferência.,"['FissionFolio', 'DataCrafter']","['FíjionFólio', 'Dáta Cráfter']",pf_dora,1.1,p
+audio/184.wav,A implementação dos NanoGrids e a tecnologia de criptografia da CryptoGrafter serão discutidas na próxima reunião.,"['NanoGrids', 'CryptoGrafter']","['Nâno Gríds', 'Crypto Gráfter']",pm_alex,1.2,p
+audio/185.wav,A integração do TransactNode com nosso sistema de pagamento e as novas ferramentas do Dataverse estão em andamento.,"['TransactNode', 'Dataverse']","['TransactNoud', 'dáta vârs']",pm_alex,1,p
+audio/186.wav,A LinkLattice está desenvolvendo uma nova plataforma de comunicação e a segurança dos dados no CipherCanvas é uma das melhores do mercado.,"['LinkLattice', 'CipherCanvas']","['línk látiss', 'Saifêr Quênvas']",pm_santa,1.1,p
+audio/187.wav,A equipe de desenvolvimento está testando a nova versão do KernelKey e a solução inovadora do DigitDynamo.,"['KernelKey', 'DigitDynamo']","['Kêrnél qui', 'Dígit Dáinamo']",pm_santa,1.4,p
+audio/188.wav,A PixelPortal está lançando uma nova ferramenta de design gráfico e a tecnologia NanoAnode pode melhorar a eficiência energética de nossos servidores.,"['PixelPortal', 'NanoAnode']","['PikselPôrtal', 'Nâno Anoud']",pm_santa,1.3,p
+audio/189.wav,A equipe de desenvolvimento da CodeComet está trabalhando em uma nova funcionalidade com a análise de dados da CloudVista.,"['CodeComet', 'CloudVista']","['CoudeCómet', 'Claud Vista']",pm_alex,1.3,p
+audio/190.wav,Precisamos discutir a integração do BlockCraft e revisar o relatório de desempenho do AppBleeder.,"['BlockCraft', 'AppBleeder']","['Blók Cráft', 'AppBliider']",pf_dora,1.2,p
+audio/191.wav,A equipe de TI está revisando o código do AppSynth.NET e a solução de backup da OmniReplica.,"['AppSynth.NET', 'OmniReplica']","['AppSynth dóth néth', 'õmní Réplíca']",pf_dora,1.3,p
+audio/192.wav,Precisamos verificar a compatibilidade do VectorSplice e a segurança dos dados fornecida pela CyberLobe.,"['VectorSplice', 'CyberLobe']","['Véctor Spláiss', 'Sáiber Lób']",pm_santa,1.3,p
+audio/193.wav,O novo portfólio de produtos da FissionFolio e a análise de dados da DataCrafter serão apresentados na conferência.,"['FissionFolio', 'DataCrafter']","['FíjionFólio', 'Dáta Cráfter']",pm_alex,1,p
+audio/194.wav,A implementação dos NanoGrids e a tecnologia de criptografia da CryptoGrafter serão discutidas na próxima reunião.,"['NanoGrids', 'CryptoGrafter']","['Nâno Gríds', 'Crypto Gráfter']",pm_santa,1.3,p
+audio/195.wav,A integração do TransactNode com nosso sistema de pagamento e as novas ferramentas do Dataverse estão em andamento.,"['TransactNode', 'Dataverse']","['TransactNoud', 'dáta vârs']",pm_santa,1.2,p
+audio/196.wav,A LinkLattice está desenvolvendo uma nova plataforma de comunicação e a segurança dos dados no CipherCanvas é uma das melhores do mercado.,"['LinkLattice', 'CipherCanvas']","['línk látiss', 'Saifêr Quênvas']",pm_santa,1.2,p
+audio/197.wav,A equipe de desenvolvimento está testando a nova versão do KernelKey e a solução inovadora do DigitDynamo.,"['KernelKey', 'DigitDynamo']","['Kêrnél qui', 'Dígit Dáinamo']",pm_santa,1.3,p
+audio/198.wav,A PixelPortal está lançando uma nova ferramenta de design gráfico e a tecnologia NanoAnode pode melhorar a eficiência energética de nossos servidores.,"['PixelPortal', 'NanoAnode']","['PikselPôrtal', 'Nâno Anoud']",pf_dora,1.4,p
+audio/199.wav,A equipe de desenvolvimento da CloudCrown está trabalhando em uma nova solução de armazenamento em nuvem.,['CloudCrown'],['Cláud Crauwn'],pm_alex,1.3,p
+audio/200.wav,Precisamos discutir a integração do LogicLoom com nossos sistemas de análise de dados.,['LogicLoom'],['LógicLúm'],pm_santa,1.3,p
+audio/201.wav,O EchoEncrypt será fundamental para garantir a segurança dos nossos dados corporativos.,['EchoEncrypt'],['Éko Encrípt'],pm_santa,1.3,p
+audio/202.wav,O ProgramPetro está liderando a iniciativa de automação de processos na nossa empresa.,['ProgramPetro'],['Prôgram Pétrou'],pm_alex,1.2,p
+audio/203.wav,A implementação do TranSync vai otimizar a sincronização de dados entre nossos departamentos.,['TranSync'],['trêinSync'],pm_santa,1.3,p
+audio/204.wav,A NanoNimbus está desenvolvendo uma nova tecnologia de computação em nuvem que promete revolucionar o mercado.,['NanoNimbus'],['Nano Nîîmbus'],pf_dora,1,p
+audio/205.wav,O PythonFang será utilizado para desenvolver nossos novos algoritmos de machine learning.,['PythonFang'],['Páiton Fêng'],pm_santa,1,p
+audio/206.wav,A equipe da GalaxySpin está trabalhando em um projeto inovador de visualização de dados.,['GalaxySpin'],['GaláksySpín'],pm_alex,1.3,p
+audio/207.wav,Precisamos revisar o contrato com a BitPly antes de avançar com a parceria.,['BitPly'],['Bit Plái'],pf_dora,1.2,p
+audio/208.wav,O BlockOrchestrator vai facilitar a gestão de nossos projetos de blockchain.,['BlockOrchestrator'],['Blóck Orquestreitôr'],pm_santa,1.2,p
+audio/209.wav,A segurança dos dados será reforçada com a implementação do EncryptEdger.,['EncryptEdger'],['Encrypt Édjer'],pf_dora,1.2,p
+audio/210.wav,O QuantumGaze está desenvolvendo uma nova abordagem para a análise de big data.,['QuantumGaze'],['QuantumGuéize'],pm_alex,1.2,p
+audio/211.wav,A NeuralNexus está liderando a pesquisa em redes neurais para nossa próxima geração de produtos.,['NeuralNexus'],['Niural Néksus'],pf_dora,1.3,p
+audio/212.wav,A TechLinguia vai nos ajudar a melhorar a comunicação entre nossos sistemas de TI.,['TechLinguia'],['Ték Línguía'],pf_dora,1,p
+audio/213.wav,O PetaPilot está testando novos métodos de processamento de dados em larga escala.,['PetaPilot'],['PêtaPáilot'],pm_alex,1.1,p
+audio/214.wav,A VortexVertex está desenvolvendo uma solução de análise preditiva que pode ser muito útil para nossa empresa.,['VortexVertex'],['Vortex Vertex'],pf_dora,1.3,p
+audio/215.wav,Precisamos agendar uma reunião com a equipe da GhostWire para discutir a segurança da rede.,['GhostWire'],['Gôust uáier'],pf_dora,1.1,p
+audio/216.wav,A PharmaPhenom está trabalhando em uma nova plataforma de análise de dados para o setor farmacêutico.,['PharmaPhenom'],['Farma Fênom'],pm_alex,1.2,p
+audio/217.wav,A MegaBolide está desenvolvendo uma tecnologia de alta performance para nossos servidores.,['MegaBolide'],['Méga Boláid'],pm_santa,1,p
+audio/218.wav,O TurboTransact vai acelerar o processamento de transações financeiras em nossa plataforma.,['TurboTransact'],['TurboTransact'],pm_santa,1.2,p
+audio/219.wav,A integração entre CloudCrown e LogicLoom vai melhorar a eficiência dos nossos sistemas de TI.,"['CloudCrown', 'LogicLoom']","['Cláud Crauwn', 'LógicLúm']",pm_alex,1.1,p
+audio/220.wav,O EchoEncrypt e o ProgramPetro estão colaborando para desenvolver uma nova solução de segurança.,"['EchoEncrypt', 'ProgramPetro']","['Éko Encrípt', 'Prôgram Pétrou']",pm_santa,1,p
+audio/221.wav,A parceria entre TranSync e NanoNimbus vai revolucionar a sincronização de dados em nuvem.,"['TranSync', 'NanoNimbus']","['trêinSync', 'Nano Nîîmbus']",pm_santa,1.2,p
+audio/222.wav,O PythonFang e a GalaxySpin estão trabalhando juntos em um projeto de visualização de dados.,"['PythonFang', 'GalaxySpin']","['Páiton Fêng', 'GaláksySpín']",pm_alex,1.3,p
+audio/223.wav,A BitPly e o BlockOrchestrator vão facilitar a gestão de nossos projetos de blockchain.,"['BitPly', 'BlockOrchestrator']","['Bit Plái', 'Blóck Orquestreitôr']",pf_dora,1.1,p
+audio/224.wav,A segurança dos dados será reforçada com a implementação do EncryptEdger e do QuantumGaze.,"['EncryptEdger', 'QuantumGaze']","['Encrypt Édjer', 'QuantumGuéize']",pm_alex,1.2,p
+audio/225.wav,A NeuralNexus e a TechLinguia estão liderando a pesquisa em redes neurais e comunicação de sistemas.,"['NeuralNexus', 'TechLinguia']","['Niural Néksus', 'Ték Línguía']",pf_dora,1,p
+audio/226.wav,O PetaPilot e a VortexVertex estão testando novos métodos de processamento de dados em larga escala.,"['PetaPilot', 'VortexVertex']","['PêtaPáilot', 'Vortex Vertex']",pm_alex,1.2,p
+audio/227.wav,Precisamos agendar uma reunião com a equipe da GhostWire e da PharmaPhenom para discutir a segurança da rede.,"['GhostWire', 'PharmaPhenom']","['Gôust uáier', 'Farma Fênom']",pm_alex,1.4,p
+audio/228.wav,A MegaBolide e o TurboTransact estão desenvolvendo uma tecnologia de alta performance para nossos servidores.,"['MegaBolide', 'TurboTransact']","['Méga Boláid', 'TurboTransact']",pm_alex,1.2,p
+audio/229.wav,A CloudCrown e o EchoEncrypt estão colaborando para garantir a segurança dos nossos dados corporativos.,"['CloudCrown', 'EchoEncrypt']","['Cláud Crauwn', 'Éko Encrípt']",pf_dora,1.1,p
+audio/230.wav,Precisamos discutir a integração do LogicLoom com o ProgramPetro para automação de processos.,"['LogicLoom', 'ProgramPetro']","['LógicLúm', 'Prôgram Pétrou']",pm_santa,1.1,p
+audio/231.wav,A implementação do TranSync e do PythonFang vai otimizar a sincronização de dados e machine learning.,"['TranSync', 'PythonFang']","['trêinSync', 'Páiton Fêng']",pm_alex,1,p
+audio/232.wav,A NanoNimbus e a GalaxySpin estão desenvolvendo uma nova tecnologia de computação em nuvem e visualização de dados.,"['NanoNimbus', 'GalaxySpin']","['Nano Nîîmbus', 'GaláksySpín']",pf_dora,1.1,p
+audio/233.wav,Precisamos revisar o contrato com a BitPly e o EncryptEdger antes de avançar com a parceria.,"['BitPly', 'EncryptEdger']","['Bit Plái', 'Encrypt Édjer']",pm_alex,1.1,p
+audio/234.wav,O BlockOrchestrator e o QuantumGaze vão facilitar a gestão de nossos projetos de blockchain e análise de big data.,"['BlockOrchestrator', 'QuantumGaze']","['Blóck Orquestreitôr', 'QuantumGuéize']",pm_santa,1.1,p
+audio/235.wav,A NeuralNexus e a TechLinguia estão liderando a pesquisa em redes neurais e comunicação de sistemas.,"['NeuralNexus', 'TechLinguia']","['Niural Néksus', 'Ték Línguía']",pm_alex,1.1,p
+audio/236.wav,O PetaPilot e a VortexVertex estão testando novos métodos de processamento de dados em larga escala.,"['PetaPilot', 'VortexVertex']","['PêtaPáilot', 'Vortex Vertex']",pm_santa,1.3,p
+audio/237.wav,Precisamos agendar uma reunião com a equipe da GhostWire e da PharmaPhenom para discutir a segurança da rede.,"['GhostWire', 'PharmaPhenom']","['Gôust uáier', 'Farma Fênom']",pf_dora,1.3,p
+audio/238.wav,A MegaBolide e o TurboTransact estão desenvolvendo uma tecnologia de alta performance para nossos servidores.,"['MegaBolide', 'TurboTransact']","['Méga Boláid', 'TurboTransact']",pf_dora,1.1,p
+audio/239.wav,Precisamos discutir a integração do CyberSlicer na nossa infraestrutura de segurança.,['CyberSlicer'],['Sáiber Sláicer'],pm_santa,1,p
+audio/240.wav,O WireStrip será essencial para a próxima fase do projeto de automação.,['WireStrip'],['uáiêr Stráip'],pm_alex,1.3,p
+audio/241.wav,O CodeMeister está liderando a equipe de desenvolvimento do novo software.,['CodeMeister'],['Coud Máistãr'],pm_santa,1.4,p
+audio/242.wav,A equipe de TI está investigando os problemas relatados com o GlitchGlove.,['GlitchGlove'],['Glitch Glouv'],pm_alex,1.3,p
+audio/243.wav,Vamos precisar do MegaRig para suportar a carga de trabalho do novo sistema.,['MegaRig'],['Méga rig'],pm_santa,1.2,p
+audio/244.wav,O HiFalcon foi atualizado para melhorar a performance da rede.,['HiFalcon'],['Rái Fálcon'],pm_santa,1.2,p
+audio/245.wav,A WarpFarm está sendo considerada para o armazenamento de dados em larga escala.,['WarpFarm'],['uárp Farm'],pm_alex,1,p
+audio/246.wav,O GraphGrader será utilizado para analisar os dados de desempenho.,['GraphGrader'],['Gráf Greidâr'],pf_dora,1.4,p
+audio/247.wav,Precisamos revisar o contrato com o fornecedor do BitBark.,['BitBark'],['Bít Bárc'],pm_santa,1.1,p
+audio/248.wav,A apresentação incluirá uma demonstração do HolograPix.,['HolograPix'],['Rólogra Piks'],pf_dora,1.3,p
+audio/249.wav,Os FalconFirewalls serão instalados na próxima semana.,['FalconFirewalls'],['Fálcon Fáieruáos'],pm_alex,1,p
+audio/250.wav,O FlashSanctor está apresentando problemas de compatibilidade.,['FlashSanctor'],['Flásh Sênctor'],pf_dora,1.2,p
+audio/251.wav,O AccruTypeMap será essencial para a análise de dados financeiros.,['AccruTypeMap'],['Accru Táip Mép'],pm_santa,1.4,p
+audio/252.wav,A equipe de backup está utilizando o BytePreserve para garantir a segurança dos dados.,['BytePreserve'],['Báit Presãrv'],pf_dora,1.2,p
+audio/253.wav,O VoiceDepot será integrado ao sistema de comunicação interna.,['VoiceDepot'],['Vóiss Dípou'],pm_alex,1.3,p
+audio/254.wav,A GammaChain está sendo testada para a nova plataforma de blockchain.,['GammaChain'],['Gãma Tchêin'],pm_alex,1.2,p
+audio/255.wav,O busrio será utilizado para a transferência de dados entre servidores.,['busrio'],['bãsrio'],pm_santa,1.2,p
+audio/256.wav,O CacheCrafter está sendo configurado para otimizar o desempenho do sistema.,['CacheCrafter'],['Cásh Cráfter'],pm_alex,1.2,p
+audio/257.wav,A BiotechBlender está desenvolvendo novas soluções para o setor de saúde.,['BiotechBlender'],['Báiotec Blênder'],pm_santa,1.4,p
+audio/258.wav,O MicroShift será implementado na próxima atualização do software.,['MicroShift'],['Máicrou Shíft'],pm_santa,1.3,p
+audio/259.wav,A integração do CyberSlicer com o WireStrip está em andamento.,"['CyberSlicer', 'WireStrip']","['Sáiber Sláicer', 'uáiêr Stráip']",pm_alex,1.3,p
+audio/260.wav,O CodeMeister está resolvendo os problemas relatados com o GlitchGlove.,"['CodeMeister', 'GlitchGlove']","['Coud Máistãr', 'Glitch Glouv']",pm_santa,1.3,p
+audio/261.wav,O MegaRig e o HiFalcon serão utilizados na nova infraestrutura de TI.,"['MegaRig', 'HiFalcon']","['Méga rig', 'Rái Fálcon']",pm_santa,1.3,p
+audio/262.wav,A WarpFarm e o GraphGrader serão essenciais para a análise de dados.,"['WarpFarm', 'GraphGrader']","['uárp Farm', 'Gráf Greidâr']",pm_alex,1.3,p
+audio/263.wav,O BitBark e o HolograPix serão apresentados na reunião de amanhã.,"['BitBark', 'HolograPix']","['Bít Bárc', 'Rólogra Piks']",pf_dora,1.2,p
+audio/264.wav,Os FalconFirewalls e o FlashSanctor estão sendo configurados pela equipe de segurança.,"['FalconFirewalls', 'FlashSanctor']","['Fálcon Fáieruáos', 'Flásh Sênctor']",pm_santa,1.3,p
+audio/265.wav,O AccruTypeMap e o BytePreserve serão utilizados para a análise de dados financeiros.,"['AccruTypeMap', 'BytePreserve']","['Accru Táip Mép', 'Báit Presãrv']",pm_alex,1.2,p
+audio/266.wav,O VoiceDepot e a GammaChain serão integrados ao novo sistema de comunicação.,"['VoiceDepot', 'GammaChain']","['Vóiss Dípou', 'Gãma Tchêin']",pm_alex,1.3,p
+audio/267.wav,O busrio e o CacheCrafter estão sendo testados para otimizar a transferência de dados.,"['busrio', 'CacheCrafter']","['bãsrio', 'Cásh Cráfter']",pm_santa,1.2,p
+audio/268.wav,A BiotechBlender e o MicroShift estão desenvolvendo novas soluções para o setor de saúde.,"['BiotechBlender', 'MicroShift']","['Báiotec Blênder', 'Máicrou Shíft']",pm_alex,1.1,p
+audio/269.wav,O CyberSlicer e o CodeMeister estão liderando a equipe de desenvolvimento.,"['CyberSlicer', 'CodeMeister']","['Sáiber Sláicer', 'Coud Máistãr']",pm_santa,1.1,p
+audio/270.wav,O WireStrip e o GlitchGlove serão essenciais para a próxima fase do projeto.,"['WireStrip', 'GlitchGlove']","['uáiêr Stráip', 'Glitch Glouv']",pm_santa,1,p
+audio/271.wav,O MegaRig e a WarpFarm serão utilizados para suportar a carga de trabalho do novo sistema.,"['MegaRig', 'WarpFarm']","['Méga rig', 'uárp Farm']",pm_alex,1.1,p
+audio/272.wav,O GraphGrader e o BitBark serão utilizados para analisar os dados de desempenho.,"['GraphGrader', 'BitBark']","['Gráf Greidâr', 'Bít Bárc']",pf_dora,1.2,p
+audio/273.wav,O HolograPix e os FalconFirewalls serão apresentados na reunião de segurança.,"['HolograPix', 'FalconFirewalls']","['Rólogra Piks', 'Fálcon Fáieruáos']",pf_dora,1.2,p
+audio/274.wav,O FlashSanctor e o AccruTypeMap estão sendo configurados pela equipe de TI.,"['FlashSanctor', 'AccruTypeMap']","['Flásh Sênctor', 'Accru Táip Mép']",pf_dora,1,p
+audio/275.wav,O BytePreserve e o VoiceDepot serão integrados ao sistema de backup.,"['BytePreserve', 'VoiceDepot']","['Báit Presãrv', 'Vóiss Dípou']",pm_santa,1.1,p
+audio/276.wav,A GammaChain e o busrio estão sendo testados para a nova plataforma de blockchain.,"['GammaChain', 'busrio']","['Gãma Tchêin', 'bãsrio']",pm_santa,1.2,p
+audio/277.wav,O CacheCrafter e a BiotechBlender estão desenvolvendo novas soluções para otimizar o desempenho do sistema.,"['CacheCrafter', 'BiotechBlender']","['Cásh Cráfter', 'Báiotec Blênder']",pm_santa,1.3,p
+audio/278.wav,O MicroShift e o CyberSlicer serão implementados na próxima atualização do software.,"['MicroShift', 'CyberSlicer']","['Máicrou Shíft', 'Sáiber Sláicer']",pm_santa,1.1,p
+audio/279.wav,Precisamos que a equipe DebugDruids revise o código antes da reunião de amanhã.,['DebugDruids'],['dbãg drúids'],pf_dora,1.2,p
+audio/280.wav,O LogiSeeker está liderando a análise de dados para o próximo trimestre.,['LogiSeeker'],['Lógi Siikêr'],pm_alex,1.1,p
+audio/281.wav,A integração com o sistema CapsuleBit foi concluída com sucesso.,['CapsuleBit'],['Câpsúl Bít'],pf_dora,1.4,p
+audio/282.wav,O PixelPrism será utilizado para melhorar a qualidade das imagens no projeto.,['PixelPrism'],['Píksel Prísm'],pf_dora,1.1,p
+audio/283.wav,O FusionFollower está desenvolvendo novas estratégias para o mercado de tecnologia.,['FusionFollower'],['FúsionFóllouêr'],pf_dora,1,p
+audio/284.wav,A equipe MatrixMapper está trabalhando na otimização dos algoritmos de busca.,['MatrixMapper'],['Meitrix Mápper'],pm_santa,1.3,p
+audio/285.wav,O QuantuHub será o ponto central para todas as nossas operações de dados.,['QuantuHub'],['Quântu Rúb'],pm_alex,1.2,p
+audio/286.wav,A atualização do servidor PetaNode está agendada para o próximo fim de semana.,['PetaNode'],['Péta Nowd'],pm_santa,1.3,p
+audio/287.wav,Precisamos que o FlashOrb seja configurado antes da apresentação.,['FlashOrb'],['Flásh órbi'],pm_alex,1.2,p
+audio/288.wav,O ParaPulse está sendo testado para garantir a estabilidade do sistema.,['ParaPulse'],['ParaPûlss'],pm_santa,1.4,p
+audio/289.wav,A equipe de desenvolvimento está investigando o problema no QuantumVoid.,['QuantumVoid'],['Quantum Vóid'],pm_santa,1.3,p
+audio/290.wav,O IntraLinkage será crucial para a comunicação entre os departamentos.,['IntraLinkage'],['Intra Línkêj'],pm_santa,1.1,p
+audio/291.wav,A nova versão do WireWeb será lançada na próxima semana.,['WireWeb'],['Uáiêr uéb'],pm_alex,1.3,p
+audio/292.wav,O CyberCrafter está liderando a inovação em segurança cibernética.,['CyberCrafter'],['SáiberCráfter'],pm_santa,1.1,p
+audio/293.wav,Precisamos discutir a integração do PentaShare na reunião de hoje.,['PentaShare'],['Penta xér'],pf_dora,1.2,p
+audio/294.wav,O DataRanger está coletando informações para o relatório anual.,['DataRanger'],['Deita Reindger'],pm_alex,1.1,p
+audio/295.wav,A equipe TensorBeam está trabalhando na análise de dados em tempo real.,['TensorBeam'],['tênsor bim'],pf_dora,1.3,p
+audio/296.wav,O LaserOverdrive será utilizado para melhorar a eficiência do sistema.,['LaserOverdrive'],['léiser ouverdráiv'],pf_dora,1.3,p
+audio/297.wav,O PixelGen está desenvolvendo novas tecnologias para o setor de imagem.,['PixelGen'],['Píksel Djên'],pm_santa,1.2,p
+audio/298.wav,O CyberCushion será implementado para aumentar a segurança dos dados.,['CyberCushion'],['Sáiber Cãshun'],pm_santa,1.1,p
+audio/299.wav,A equipe DebugDruids e o LogiSeeker estão colaborando na análise de desempenho.,"['DebugDruids', 'LogiSeeker']","['dbãg drúids', 'Lógi Siikêr']",pm_santa,1.1,p
+audio/300.wav,O CapsuleBit e o PixelPrism serão integrados para melhorar a qualidade do produto.,"['CapsuleBit', 'PixelPrism']","['Câpsúl Bít', 'Píksel Prísm']",pf_dora,1.3,p
+audio/301.wav,O FusionFollower e o MatrixMapper estão desenvolvendo novas estratégias de mercado.,"['FusionFollower', 'MatrixMapper']","['FúsionFóllouêr', 'Meitrix Mápper']",pm_alex,1,p
+audio/302.wav,O QuantuHub e o PetaNode serão os principais pontos de armazenamento de dados.,"['QuantuHub', 'PetaNode']","['Quântu Rúb', 'Péta Nowd']",pm_alex,1.3,p
+audio/303.wav,O FlashOrb e o ParaPulse estão sendo testados para garantir a estabilidade do sistema.,"['FlashOrb', 'ParaPulse']","['Flásh órbi', 'ParaPûlss']",pm_santa,1.3,p
+audio/304.wav,O QuantumVoid e o IntraLinkage serão cruciais para a comunicação entre os departamentos.,"['QuantumVoid', 'IntraLinkage']","['Quantum Vóid', 'Intra Línkêj']",pm_santa,1,p
+audio/305.wav,A nova versão do WireWeb e o CyberCrafter serão lançados na próxima semana.,"['WireWeb', 'CyberCrafter']","['Uáiêr uéb', 'SáiberCráfter']",pf_dora,1.1,p
+audio/306.wav,Precisamos discutir a integração do PentaShare e do DataRanger na reunião de hoje.,"['PentaShare', 'DataRanger']","['Penta xér', 'Deita Reindger']",pm_santa,1.4,p
+audio/307.wav,A equipe TensorBeam e o LaserOverdrive estão trabalhando na análise de dados em tempo real.,"['TensorBeam', 'LaserOverdrive']","['tênsor bim', 'léiser ouverdráiv']",pf_dora,1.1,p
+audio/308.wav,O PixelGen e o CyberCushion serão implementados para aumentar a segurança dos dados.,"['PixelGen', 'CyberCushion']","['Píksel Djên', 'Sáiber Cãshun']",pm_alex,1.3,p
+audio/309.wav,A equipe DebugDruids e o CapsuleBit estão colaborando na análise de desempenho.,"['DebugDruids', 'CapsuleBit']","['dbãg drúids', 'Câpsúl Bít']",pf_dora,1.2,p
+audio/310.wav,O LogiSeeker e o PixelPrism serão integrados para melhorar a qualidade do produto.,"['LogiSeeker', 'PixelPrism']","['Lógi Siikêr', 'Píksel Prísm']",pm_santa,1.2,p
+audio/311.wav,O FusionFollower e o QuantuHub estão desenvolvendo novas estratégias de mercado.,"['FusionFollower', 'QuantuHub']","['FúsionFóllouêr', 'Quântu Rúb']",pm_santa,1.2,p
+audio/312.wav,O MatrixMapper e o PetaNode serão os principais pontos de armazenamento de dados.,"['MatrixMapper', 'PetaNode']","['Meitrix Mápper', 'Péta Nowd']",pf_dora,1.1,p
+audio/313.wav,O FlashOrb e o QuantumVoid estão sendo testados para garantir a estabilidade do sistema.,"['FlashOrb', 'QuantumVoid']","['Flásh órbi', 'Quantum Vóid']",pf_dora,1.2,p
+audio/314.wav,O ParaPulse e o IntraLinkage serão cruciais para a comunicação entre os departamentos.,"['ParaPulse', 'IntraLinkage']","['ParaPûlss', 'Intra Línkêj']",pm_alex,1.2,p
+audio/315.wav,A nova versão do WireWeb e o PentaShare serão lançados na próxima semana.,"['WireWeb', 'PentaShare']","['Uáiêr uéb', 'Penta xér']",pm_santa,1.3,p
+audio/316.wav,Precisamos discutir a integração do CyberCrafter e do DataRanger na reunião de hoje.,"['CyberCrafter', 'DataRanger']","['SáiberCráfter', 'Deita Reindger']",pm_santa,1.1,p
+audio/317.wav,A equipe TensorBeam e o PixelGen estão trabalhando na análise de dados em tempo real.,"['TensorBeam', 'PixelGen']","['tênsor bim', 'Píksel Djên']",pm_alex,1,p
+audio/318.wav,O LaserOverdrive e o CyberCushion serão implementados para aumentar a segurança dos dados.,"['LaserOverdrive', 'CyberCushion']","['léiser ouverdráiv', 'Sáiber Cãshun']",pm_santa,1.2,p
+audio/319.wav,A equipe de desenvolvimento da ZenConnexion está trabalhando em uma nova solução de integração.,['ZenConnexion'],['Zen Conékssion'],pm_santa,1,p
+audio/320.wav,Precisamos revisar o relatório de segurança da BitCiphers antes da reunião de amanhã.,['BitCiphers'],['Bít Sáifers'],pm_santa,1.1,p
+audio/321.wav,O projeto InfoHarmony está avançando conforme o cronograma estabelecido.,['InfoHarmony'],['Info Rármoní'],pm_santa,1.4,p
+audio/322.wav,A integração com o sistema FileFlutter foi concluída com sucesso.,['FileFlutter'],['Faiou Flútter'],pm_alex,1.4,p
+audio/323.wav,A equipe de TI está investigando uma possível vulnerabilidade no TorrentNode.,['TorrentNode'],['tôrrent noud'],pm_alex,1.2,p
+audio/324.wav,O novo servidor HyperVortex será instalado na próxima semana.,['HyperVortex'],['Ráiper Vôrteks'],pm_alex,1.3,p
+audio/325.wav,A atualização do software AutoArray está programada para o final do mês.,['AutoArray'],['Auto Arêi'],pm_alex,1.4,p
+audio/326.wav,O evento MatrixMingle será uma ótima oportunidade para networking.,['MatrixMingle'],['Meitrix Míngou'],pf_dora,1.3,p
+audio/327.wav,A apresentação sobre QuantumQuill foi muito informativa e esclarecedora.,['QuantumQuill'],['Quantum kuiil'],pm_santa,1.1,p
+audio/328.wav,A InfraEvo está liderando a iniciativa de modernização da infraestrutura.,['InfraEvo'],['Infra évou'],pm_alex,1.2,p
+audio/329.wav,O SiliconStitcher está sendo utilizado para otimizar nossos processos de fabricação.,['SiliconStitcher'],['Sílicon Stítchã'],pm_alex,1.3,p
+audio/330.wav,A nova tecnologia EtherWeave promete revolucionar a comunicação interna.,['EtherWeave'],['îther ueiv'],pf_dora,1.2,p
+audio/331.wav,O projeto NeuroSpark está em fase de testes e os resultados são promissores.,['NeuroSpark'],['Niurou Spárk'],pf_dora,1.3,p
+audio/332.wav,A GeneCircuit está desenvolvendo uma nova abordagem para análise de dados genéticos.,['GeneCircuit'],['jeen Cirkuit'],pm_alex,1.2,p
+audio/333.wav,A ferramenta DecryptGraph será essencial para nossa próxima campanha de marketing.,['DecryptGraph'],['Decrípt Gráf'],pm_santa,1.3,p
+audio/334.wav,O SourceSpinner está sendo implementado para melhorar a eficiência do nosso sistema de dados.,['SourceSpinner'],['Sórce Spíner'],pf_dora,1.2,p
+audio/335.wav,A FlashGrid está oferecendo uma solução inovadora para armazenamento de dados.,['FlashGrid'],['Flásh Gríd'],pf_dora,1.1,p
+audio/336.wav,A equipe de pesquisa está explorando novas aplicações para o ScalaCoil.,['ScalaCoil'],['Scala Cóíu'],pf_dora,1.3,p
+audio/337.wav,O BioAlgo está sendo utilizado para desenvolver novos algoritmos de análise biológica.,['BioAlgo'],['Bíu álgou'],pm_alex,1.1,p
+audio/338.wav,A tecnologia EtherWind está sendo integrada ao nosso sistema de comunicação.,['EtherWind'],['îther uind'],pf_dora,1.4,p
+audio/339.wav,A ZenConnexion e a BitCiphers estão colaborando em um novo projeto de segurança.,"['ZenConnexion', 'BitCiphers']","['Zen Conékssion', 'Bít Sáifers']",pf_dora,1.3,p
+audio/340.wav,A integração entre InfoHarmony e FileFlutter está em andamento.,"['InfoHarmony', 'FileFlutter']","['Info Rármoní', 'Faiou Flútter']",pf_dora,1.1,p
+audio/341.wav,A equipe está avaliando a compatibilidade entre TorrentNode e HyperVortex.,"['TorrentNode', 'HyperVortex']","['tôrrent noud', 'Ráiper Vôrteks']",pf_dora,1.1,p
+audio/342.wav,O AutoArray será apresentado no evento MatrixMingle na próxima semana.,"['AutoArray', 'MatrixMingle']","['Auto Arêi', 'Meitrix Míngou']",pf_dora,1,p
+audio/343.wav,A QuantumQuill está sendo utilizada para otimizar a infraestrutura da InfraEvo.,"['QuantumQuill', 'InfraEvo']","['Quantum kuiil', 'Infra évou']",pf_dora,1,p
+audio/344.wav,A integração entre SiliconStitcher e EtherWeave está trazendo ótimos resultados.,"['SiliconStitcher', 'EtherWeave']","['Sílicon Stítchã', 'îther ueiv']",pm_santa,1.1,p
+audio/345.wav,A NeuroSpark e a GeneCircuit estão desenvolvendo uma nova solução de análise de dados.,"['NeuroSpark', 'GeneCircuit']","['Niurou Spárk', 'jeen Cirkuit']",pm_alex,1.2,p
+audio/346.wav,A DecryptGraph está sendo integrada ao sistema SourceSpinner para melhorar a segurança.,"['DecryptGraph', 'SourceSpinner']","['Decrípt Gráf', 'Sórce Spíner']",pm_santa,1.4,p
+audio/347.wav,A FlashGrid e a ScalaCoil estão colaborando em um novo projeto de armazenamento de dados.,"['FlashGrid', 'ScalaCoil']","['Flásh Gríd', 'Scala Cóíu']",pf_dora,1.3,p
+audio/348.wav,A BioAlgo está sendo utilizada para desenvolver novos algoritmos de comunicação com EtherWind.,"['BioAlgo', 'EtherWind']","['Bíu álgou', 'îther uind']",pm_alex,1.3,p
+audio/349.wav,A ZenConnexion está liderando a integração com InfoHarmony.,"['ZenConnexion', 'InfoHarmony']","['Zen Conékssion', 'Info Rármoní']",pm_santa,1.1,p
+audio/350.wav,A BitCiphers está revisando a segurança do sistema FileFlutter.,"['BitCiphers', 'FileFlutter']","['Bít Sáifers', 'Faiou Flútter']",pm_alex,1.2,p
+audio/351.wav,A compatibilidade entre TorrentNode e AutoArray está sendo testada.,"['TorrentNode', 'AutoArray']","['tôrrent noud', 'Auto Arêi']",pf_dora,1.1,p
+audio/352.wav,O HyperVortex será apresentado no evento MatrixMingle.,"['HyperVortex', 'MatrixMingle']","['Ráiper Vôrteks', 'Meitrix Míngou']",pm_alex,1.4,p
+audio/353.wav,A QuantumQuill está sendo utilizada para otimizar o SiliconStitcher.,"['QuantumQuill', 'SiliconStitcher']","['Quantum kuiil', 'Sílicon Stítchã']",pf_dora,1,p
+audio/354.wav,A InfraEvo está integrando a tecnologia EtherWeave em sua infraestrutura.,"['InfraEvo', 'EtherWeave']","['Infra évou', 'îther ueiv']",pf_dora,1.3,p
+audio/355.wav,A NeuroSpark está desenvolvendo uma nova solução de segurança com DecryptGraph.,"['NeuroSpark', 'DecryptGraph']","['Niurou Spárk', 'Decrípt Gráf']",pm_santa,1.1,p
+audio/356.wav,A GeneCircuit está sendo integrada ao sistema SourceSpinner para análise de dados.,"['GeneCircuit', 'SourceSpinner']","['jeen Cirkuit', 'Sórce Spíner']",pm_santa,1.1,p
+audio/357.wav,A FlashGrid está colaborando com BioAlgo em um novo projeto de armazenamento biológico.,"['FlashGrid', 'BioAlgo']","['Flásh Gríd', 'Bíu álgou']",pf_dora,1.4,p
+audio/358.wav,A ScalaCoil está sendo utilizada para desenvolver novos algoritmos de comunicação com EtherWind.,"['ScalaCoil', 'EtherWind']","['Scala Cóíu', 'îther uind']",pm_santa,1.4,p
+audio/359.wav,A equipe de desenvolvimento da InterWebber está trabalhando em uma nova interface de usuário.,['InterWebber'],['Inter Wéber'],pm_alex,1.2,p
+audio/360.wav,Precisamos discutir a integração do WebAffinity com nosso sistema de CRM.,['WebAffinity'],['uéb afínití'],pf_dora,1.2,p
+audio/361.wav,O CodeCrafter será utilizado para otimizar nosso processo de codificação.,['CodeCrafter'],['Cowde Cráfter'],pm_santa,1.2,p
+audio/362.wav,A AccruConverta está liderando a conversão de dados financeiros para o novo sistema.,['AccruConverta'],['AccruConvãrta'],pm_santa,1.2,p
+audio/363.wav,A MobiLogic apresentou uma solução inovadora para a gestão de dispositivos móveis.,['MobiLogic'],['Móbi Lógic'],pf_dora,1.3,p
+audio/364.wav,O SonicGrid será implementado para melhorar a comunicação interna.,['SonicGrid'],['Sônic Gríd'],pm_santa,1.3,p
+audio/365.wav,A ByteBraid está desenvolvendo uma nova tecnologia de armazenamento de dados.,['ByteBraid'],['Báit Brêid'],pm_santa,1.3,p
+audio/366.wav,A NanoNucleus está na vanguarda da pesquisa em nanotecnologia.,['NanoNucleus'],['Nano núcleús'],pm_alex,1.3,p
+audio/367.wav,O FluxFuser será crucial para a fusão de fluxos de dados em tempo real.,['FluxFuser'],['Fluks Fíuzer'],pf_dora,1,p
+audio/368.wav,A WebWelder está trabalhando na soldagem de redes para maior segurança.,['WebWelder'],['Web Wélder'],pm_santa,1,p
+audio/369.wav,A GrapheneWave está desenvolvendo novos materiais para melhorar a condutividade.,['GrapheneWave'],['grafêine uéiv'],pf_dora,1,p
+audio/370.wav,O ByteBuilder será utilizado para construir novos módulos de software.,['ByteBuilder'],['Báit Bílder'],pf_dora,1.3,p
+audio/371.wav,A HyperShift está liderando a mudança para tecnologias de hiperconvergência.,['HyperShift'],['ráiper shíft'],pf_dora,1,p
+audio/372.wav,A GeoHalo está implementando soluções de geolocalização avançadas.,['GeoHalo'],['Gio Reilo'],pm_santa,1.3,p
+audio/373.wav,A MatrixMech está desenvolvendo novos mecanismos para a matriz de dados.,['MatrixMech'],['Meitrix Mek'],pm_alex,1.2,p
+audio/374.wav,O Gigascreen será utilizado para melhorar a visualização de dados em grande escala.,['Gigascreen'],['Giga scrín'],pf_dora,1.1,p
+audio/375.wav,A FiberGrid está trabalhando na implementação de redes de fibra ótica.,['FiberGrid'],['Fáiber Gríd'],pf_dora,1,p
+audio/376.wav,A FiboPattern está desenvolvendo novos algoritmos de padrões de Fibonacci.,['FiboPattern'],['Fáibou Pádern'],pf_dora,1.3,p
+audio/377.wav,A DataDynamo está liderando a análise de grandes volumes de dados.,['DataDynamo'],['Dáta Dáinamô'],pm_alex,1.3,p
+audio/378.wav,A DataVibe está criando novas ferramentas para a visualização de dados.,['DataVibe'],['Dáta Váib'],pf_dora,1,p
+audio/379.wav,A integração entre InterWebber e WebAffinity está em fase final de desenvolvimento.,"['InterWebber', 'WebAffinity']","['Inter Wéber', 'uéb afínití']",pf_dora,1.1,p
+audio/380.wav,O CodeCrafter será utilizado para converter os dados financeiros da AccruConverta.,"['CodeCrafter', 'AccruConverta']","['Cowde Cráfter', 'AccruConvãrta']",pf_dora,1.4,p
+audio/381.wav,A MobiLogic e a SonicGrid estão colaborando em um novo projeto de comunicação móvel.,"['MobiLogic', 'SonicGrid']","['Móbi Lógic', 'Sônic Gríd']",pm_alex,1.2,p
+audio/382.wav,A ByteBraid e a NanoNucleus estão desenvolvendo uma nova tecnologia de armazenamento de dados.,"['ByteBraid', 'NanoNucleus']","['Báit Brêid', 'Nano núcleús']",pm_alex,1.3,p
+audio/383.wav,O FluxFuser e a WebWelder estão trabalhando juntos para melhorar a segurança de dados.,"['FluxFuser', 'WebWelder']","['Fluks Fíuzer', 'Web Wélder']",pf_dora,1.3,p
+audio/384.wav,A GrapheneWave e o ByteBuilder estão colaborando em um novo projeto de materiais condutores.,"['GrapheneWave', 'ByteBuilder']","['grafêine uéiv', 'Báit Bílder']",pf_dora,1.3,p
+audio/385.wav,A HyperShift e a GeoHalo estão liderando a implementação de tecnologias de geolocalização.,"['HyperShift', 'GeoHalo']","['ráiper shíft', 'Gio Reilo']",pm_santa,1.3,p
+audio/386.wav,A MatrixMech e o Gigascreen estão desenvolvendo novos mecanismos de visualização de dados.,"['MatrixMech', 'Gigascreen']","['Meitrix Mek', 'Giga scrín']",pm_alex,1.3,p
+audio/387.wav,A FiberGrid e a FiboPattern estão trabalhando em novos algoritmos de redes de fibra ótica.,"['FiberGrid', 'FiboPattern']","['Fáiber Gríd', 'Fáibou Pádern']",pm_santa,1.3,p
+audio/388.wav,A DataDynamo e a DataVibe estão criando novas ferramentas para análise e visualização de dados.,"['DataDynamo', 'DataVibe']","['Dáta Dáinamô', 'Dáta Váib']",pm_santa,1.3,p
+audio/389.wav,A InterWebber está utilizando o CodeCrafter para otimizar seu processo de desenvolvimento.,"['InterWebber', 'CodeCrafter']","['Inter Wéber', 'Cowde Cráfter']",pf_dora,1.1,p
+audio/390.wav,A WebAffinity está integrando os dados financeiros da AccruConverta em seu sistema.,"['WebAffinity', 'AccruConverta']","['uéb afínití', 'AccruConvãrta']",pf_dora,1.2,p
+audio/391.wav,A MobiLogic e a ByteBraid estão colaborando em um novo projeto de gestão de dispositivos móveis.,"['MobiLogic', 'ByteBraid']","['Móbi Lógic', 'Báit Brêid']",pf_dora,1.2,p
+audio/392.wav,A SonicGrid e a NanoNucleus estão trabalhando juntos em uma nova tecnologia de comunicação.,"['SonicGrid', 'NanoNucleus']","['Sônic Gríd', 'Nano núcleús']",pm_alex,1.1,p
+audio/393.wav,O FluxFuser e a GrapheneWave estão desenvolvendo novos materiais para fusão de dados.,"['FluxFuser', 'GrapheneWave']","['Fluks Fíuzer', 'grafêine uéiv']",pm_santa,1.2,p
+audio/394.wav,A WebWelder e o ByteBuilder estão colaborando na construção de novos módulos de software.,"['WebWelder', 'ByteBuilder']","['Web Wélder', 'Báit Bílder']",pm_alex,1.2,p
+audio/395.wav,A HyperShift e a MatrixMech estão liderando a mudança para tecnologias de hiperconvergência.,"['HyperShift', 'MatrixMech']","['ráiper shíft', 'Meitrix Mek']",pm_alex,1.3,p
+audio/396.wav,A GeoHalo e o Gigascreen estão implementando soluções avançadas de geolocalização.,"['GeoHalo', 'Gigascreen']","['Gio Reilo', 'Giga scrín']",pm_alex,1.4,p
+audio/397.wav,A FiberGrid e a DataDynamo estão trabalhando na análise de grandes volumes de dados.,"['FiberGrid', 'DataDynamo']","['Fáiber Gríd', 'Dáta Dáinamô']",pm_alex,1.1,p
+audio/398.wav,A FiboPattern e a DataVibe estão criando novas ferramentas para visualização de padrões de dados.,"['FiboPattern', 'DataVibe']","['Fáibou Pádern', 'Dáta Váib']",pf_dora,1.1,p
+audio/399.wav,A equipe de desenvolvimento da CryptoForge está trabalhando em uma nova solução de segurança.,['CryptoForge'],['Crípto Fordj'],pm_santa,1.1,p
+audio/400.wav,Precisamos discutir os avanços da QuasarQuantique na próxima reunião de tecnologia.,['QuasarQuantique'],['quêisãr quântik'],pf_dora,1.2,p
+audio/401.wav,O projeto DataDrill está pronto para ser apresentado ao conselho.,['DataDrill'],['DataDriu'],pm_alex,1.1,p
+audio/402.wav,A TerraCluster está liderando a iniciativa de computação em nuvem.,['TerraCluster'],['téra clãster'],pm_santa,1.3,p
+audio/403.wav,A ImpactImmutable desenvolveu um novo protocolo de segurança.,['ImpactImmutable'],['Impáct Immútabou'],pm_alex,1.1,p
+audio/404.wav,A BizCraftor está implementando novas estratégias de marketing digital.,['BizCraftor'],['BizCráftôr'],pm_santa,1,p
+audio/405.wav,O design gráfico da PlasmicPixel foi aprovado pelo cliente.,['PlasmicPixel'],['Plásmic Píksel'],pm_santa,1.3,p
+audio/406.wav,A MembraneMesh está inovando na área de redes de comunicação.,['MembraneMesh'],['Membrãn Mésh'],pf_dora,1.4,p
+audio/407.wav,Precisamos revisar o relatório da TelescopeDom antes da reunião.,['TelescopeDom'],['Telescoup Dom'],pm_alex,1.3,p
+audio/408.wav,A VirtualVent está desenvolvendo uma nova plataforma de realidade virtual.,['VirtualVent'],['Vírtual Vênt'],pf_dora,1,p
+audio/409.wav,O projeto FluxBlend está em fase de testes finais.,['FluxBlend'],['Fluks Blend'],pf_dora,1.4,p
+audio/410.wav,A SynthCircuit apresentou uma solução inovadora para circuitos integrados.,['SynthCircuit'],['Synth Circuit'],pm_santa,1.1,p
+audio/411.wav,A MegaMender está liderando a pesquisa em reparos automatizados.,['MegaMender'],['MegaMender'],pm_santa,1.2,p
+audio/412.wav,O novo codec da CascadeCodec será lançado no próximo trimestre.,['CascadeCodec'],['Cáskeid Coudéc'],pf_dora,1.1,p
+audio/413.wav,A MetaPulse está desenvolvendo uma nova tecnologia de pulsos magnéticos.,['MetaPulse'],['Méta Pulss'],pm_santa,1.4,p
+audio/414.wav,A CarbonCompute está focada em soluções de computação sustentável.,['CarbonCompute'],['Cárbon Compiút'],pm_santa,1.2,p
+audio/415.wav,A FirewallForge está aprimorando suas defesas contra ataques cibernéticos.,['FirewallForge'],['Fáiêrwául Fórdje'],pm_santa,1,p
+audio/416.wav,A GenoByte está avançando na pesquisa de genomas digitais.,['GenoByte'],['geno báit'],pm_santa,1.1,p
+audio/417.wav,A plataforma eTransact está facilitando transações eletrônicas seguras.,['eTransact'],['i Trãnsáct'],pm_alex,1.3,p
+audio/418.wav,A NetEndure está garantindo a resiliência da rede corporativa.,['NetEndure'],['Nét Endúur'],pm_santa,1,p
+audio/419.wav,A CryptoForge e a QuasarQuantique estão colaborando em um novo projeto de blockchain.,"['CryptoForge', 'QuasarQuantique']","['Crípto Fordj', 'quêisãr quântik']",pf_dora,1.3,p
+audio/420.wav,A integração entre DataDrill e TerraCluster está quase concluída.,"['DataDrill', 'TerraCluster']","['DataDriu', 'téra clãster']",pf_dora,1.3,p
+audio/421.wav,A ImpactImmutable e a BizCraftor estão desenvolvendo uma campanha de marketing conjunta.,"['ImpactImmutable', 'BizCraftor']","['Impáct Immútabou', 'BizCráftôr']",pm_santa,1.1,p
+audio/422.wav,A PlasmicPixel e a MembraneMesh estão trabalhando em um novo design de interface.,"['PlasmicPixel', 'MembraneMesh']","['Plásmic Píksel', 'Membrãn Mésh']",pm_santa,1.2,p
+audio/423.wav,A TelescopeDom e a VirtualVent estão explorando novas tecnologias de visualização.,"['TelescopeDom', 'VirtualVent']","['Telescoup Dom', 'Vírtual Vênt']",pm_alex,1.3,p
+audio/424.wav,A FluxBlend e a SynthCircuit estão testando novos componentes eletrônicos.,"['FluxBlend', 'SynthCircuit']","['Fluks Blend', 'Synth Circuit']",pf_dora,1,p
+audio/425.wav,A MegaMender e a CascadeCodec estão colaborando em um projeto de codificação avançada.,"['MegaMender', 'CascadeCodec']","['MegaMender', 'Cáskeid Coudéc']",pm_santa,1.3,p
+audio/426.wav,A MetaPulse e a CarbonCompute estão desenvolvendo soluções de energia eficiente.,"['MetaPulse', 'CarbonCompute']","['Méta Pulss', 'Cárbon Compiút']",pf_dora,1.4,p
+audio/427.wav,A FirewallForge e a GenoByte estão aprimorando a segurança de dados genéticos.,"['FirewallForge', 'GenoByte']","['Fáiêrwául Fórdje', 'geno báit']",pm_santa,1.1,p
+audio/428.wav,A eTransact e a NetEndure estão garantindo a segurança das transações online.,"['eTransact', 'NetEndure']","['i Trãnsáct', 'Nét Endúur']",pf_dora,1.3,p
+audio/429.wav,A CryptoForge está utilizando a tecnologia da DataDrill para análise de dados.,"['CryptoForge', 'DataDrill']","['Crípto Fordj', 'DataDriu']",pf_dora,1.4,p
+audio/430.wav,A QuasarQuantique está integrando suas soluções com a TerraCluster.,"['QuasarQuantique', 'TerraCluster']","['quêisãr quântik', 'téra clãster']",pm_alex,1.3,p
+audio/431.wav,A ImpactImmutable está colaborando com a PlasmicPixel em um novo projeto de design.,"['ImpactImmutable', 'PlasmicPixel']","['Impáct Immútabou', 'Plásmic Píksel']",pm_santa,1.3,p
+audio/432.wav,A BizCraftor está utilizando a tecnologia da MembraneMesh para melhorar suas campanhas.,"['BizCraftor', 'MembraneMesh']","['BizCráftôr', 'Membrãn Mésh']",pm_santa,1.1,p
+audio/433.wav,A TelescopeDom está testando a nova tecnologia da FluxBlend.,"['TelescopeDom', 'FluxBlend']","['Telescoup Dom', 'Fluks Blend']",pf_dora,1.2,p
+audio/434.wav,A VirtualVent está integrando os circuitos da SynthCircuit em sua plataforma.,"['VirtualVent', 'SynthCircuit']","['Vírtual Vênt', 'Synth Circuit']",pf_dora,1.2,p
+audio/435.wav,A MegaMender está colaborando com a MetaPulse em um projeto de reparos magnéticos.,"['MegaMender', 'MetaPulse']","['MegaMender', 'Méta Pulss']",pm_santa,1.2,p
+audio/436.wav,A CascadeCodec está utilizando a tecnologia da CarbonCompute para codificação eficiente.,"['CascadeCodec', 'CarbonCompute']","['Cáskeid Coudéc', 'Cárbon Compiút']",pf_dora,1.3,p
+audio/437.wav,A FirewallForge está garantindo a segurança das transações da eTransact.,"['FirewallForge', 'eTransact']","['Fáiêrwául Fórdje', 'i Trãnsáct']",pm_santa,1.2,p
+audio/438.wav,A GenoByte está utilizando a tecnologia da NetEndure para resiliência de dados.,"['GenoByte', 'NetEndure']","['geno báit', 'Nét Endúur']",pm_alex,1.1,p
+audio/439.wav,Precisamos discutir a integração do CryoCluster na nossa infraestrutura de TI.,['CryoCluster'],['Crâio klãstãr'],pm_santa,1.2,p
+audio/440.wav,O ByteBorg está liderando a inovação em nossa equipe de desenvolvimento.,['ByteBorg'],['Báit Bórg'],pm_santa,1.1,p
+audio/441.wav,A equipe de segurança está revisando o novo protocolo do CodeHelix.,['CodeHelix'],['Coud rélix'],pf_dora,1.4,p
+audio/442.wav,O relatório de segurança do VectorVigilance será apresentado na próxima reunião.,['VectorVigilance'],['Véktor Vígilânss'],pf_dora,1.3,p
+audio/443.wav,Precisamos avaliar o desempenho do AstroChip em nossos servidores.,['AstroChip'],['Astrou Tchíp'],pf_dora,1.2,p
+audio/444.wav,A implementação do ClosedFlow está prevista para o próximo trimestre.,['ClosedFlow'],['ClousêdFlow'],pf_dora,1,p
+audio/445.wav,O PixelPulse está sendo testado para melhorar a qualidade das imagens.,['PixelPulse'],['Piksel Pûlss'],pf_dora,1.3,p
+audio/446.wav,O GlytchGuard será essencial para proteger nossos dados contra ataques.,['GlytchGuard'],['Gliitch Guárde'],pf_dora,1.3,p
+audio/447.wav,A alocação de recursos pelo MasterAlloc será discutida na reunião de hoje.,['MasterAlloc'],['méster éloc'],pm_santa,1.3,p
+audio/448.wav,O KernelKnot está apresentando problemas de compatibilidade com nosso sistema.,['KernelKnot'],['Kérnel Nót'],pm_santa,1.4,p
+audio/449.wav,O DataDancer está facilitando a análise de grandes volumes de dados.,['DataDancer'],['Data Dêncer'],pm_alex,1.1,p
+audio/450.wav,A equipe de desenvolvimento está integrando o WebWeaver ao nosso site.,['WebWeaver'],['uéb uíver'],pf_dora,1.1,p
+audio/451.wav,O AlgoCraft está sendo utilizado para otimizar nossos algoritmos de busca.,['AlgoCraft'],['álgo Cráft'],pm_alex,1,p
+audio/452.wav,O desempenho do QuantaCore será avaliado na próxima reunião técnica.,['QuantaCore'],['Quânta Cór'],pm_alex,1.4,p
+audio/453.wav,O TransactTwister está revolucionando nossas transações financeiras.,['TransactTwister'],['trãnzékt tuíster'],pm_alex,1.1,p
+audio/454.wav,O SiliconSculptor está sendo utilizado para criar novos protótipos de chips.,['SiliconSculptor'],['Sílicon Skûlpter'],pf_dora,1,p
+audio/455.wav,A equipe de pesquisa está explorando as capacidades dos NanoBits.,['NanoBits'],['Nano Bits'],pm_santa,1.4,p
+audio/456.wav,O acceco está facilitando o acesso remoto aos nossos servidores.,['acceco'],['accecou'],pf_dora,1.4,p
+audio/457.wav,O PhotonicPulse está melhorando a velocidade de transmissão de dados.,['PhotonicPulse'],['Fotônik Pulss'],pm_santa,1.3,p
+audio/458.wav,O BitStride está sendo implementado para aumentar a eficiência do processamento de dados.,['BitStride'],['Bít Stráid'],pm_alex,1.2,p
+audio/459.wav,A integração do CryoCluster com o ByteBorg está em andamento.,"['CryoCluster', 'ByteBorg']","['Crâio klãstãr', 'Báit Bórg']",pm_santa,1.3,p
+audio/460.wav,O CodeHelix e o VectorVigilance estão sendo revisados pela equipe de segurança.,"['CodeHelix', 'VectorVigilance']","['Coud rélix', 'Véktor Vígilânss']",pm_santa,1.1,p
+audio/461.wav,O desempenho do AstroChip e a implementação do ClosedFlow serão discutidos na reunião.,"['AstroChip', 'ClosedFlow']","['Astrou Tchíp', 'ClousêdFlow']",pm_santa,1.3,p
+audio/462.wav,O PixelPulse e o GlytchGuard estão sendo testados para melhorar a segurança e qualidade das imagens.,"['PixelPulse', 'GlytchGuard']","['Piksel Pûlss', 'Gliitch Guárde']",pf_dora,1.2,p
+audio/463.wav,A alocação de recursos pelo MasterAlloc e os problemas de compatibilidade do KernelKnot serão abordados hoje.,"['MasterAlloc', 'KernelKnot']","['méster éloc', 'Kérnel Nót']",pf_dora,1.1,p
+audio/464.wav,O DataDancer e o WebWeaver estão facilitando a análise e integração de dados.,"['DataDancer', 'WebWeaver']","['Data Dêncer', 'uéb uíver']",pm_santa,1.1,p
+audio/465.wav,O AlgoCraft e o QuantaCore estão sendo utilizados para otimizar nossos algoritmos e desempenho.,"['AlgoCraft', 'QuantaCore']","['álgo Cráft', 'Quânta Cór']",pf_dora,1.2,p
+audio/466.wav,O TransactTwister e o SiliconSculptor estão revolucionando nossas transações e protótipos de chips.,"['TransactTwister', 'SiliconSculptor']","['trãnzékt tuíster', 'Sílicon Skûlpter']",pm_santa,1.2,p
+audio/467.wav,Os NanoBits e o acceco estão facilitando a pesquisa e acesso remoto aos servidores.,"['NanoBits', 'acceco']","['Nano Bits', 'accecou']",pm_santa,1.2,p
+audio/468.wav,O PhotonicPulse e o BitStride estão melhorando a velocidade e eficiência do processamento de dados.,"['PhotonicPulse', 'BitStride']","['Fotônik Pulss', 'Bít Stráid']",pm_alex,1.3,p
+audio/469.wav,A integração do CryoCluster com o CodeHelix está sendo revisada pela equipe técnica.,"['CryoCluster', 'CodeHelix']","['Crâio klãstãr', 'Coud rélix']",pm_alex,1.1,p
+audio/470.wav,O VectorVigilance e o AstroChip estão sendo avaliados para melhorar a segurança e desempenho.,"['VectorVigilance', 'AstroChip']","['Véktor Vígilânss', 'Astrou Tchíp']",pm_santa,1.2,p
+audio/471.wav,A implementação do ClosedFlow e os testes do PixelPulse serão discutidos na reunião.,"['ClosedFlow', 'PixelPulse']","['ClousêdFlow', 'Piksel Pûlss']",pm_alex,1.1,p
+audio/472.wav,O GlytchGuard e o MasterAlloc estão sendo utilizados para proteger e alocar recursos.,"['GlytchGuard', 'MasterAlloc']","['Gliitch Guárde', 'méster éloc']",pm_alex,1.3,p
+audio/473.wav,Os problemas de compatibilidade do KernelKnot e a análise de dados pelo DataDancer serão abordados hoje.,"['KernelKnot', 'DataDancer']","['Kérnel Nót', 'Data Dêncer']",pf_dora,1.3,p
+audio/474.wav,O WebWeaver e o AlgoCraft estão facilitando a integração e otimização de nossos sistemas.,"['WebWeaver', 'AlgoCraft']","['uéb uíver', 'álgo Cráft']",pf_dora,1.2,p
+audio/475.wav,O QuantaCore e o TransactTwister estão sendo utilizados para melhorar o desempenho e transações financeiras.,"['QuantaCore', 'TransactTwister']","['Quânta Cór', 'trãnzékt tuíster']",pm_santa,1.3,p
+audio/476.wav,O SiliconSculptor e os NanoBits estão sendo explorados para criar novos protótipos e capacidades.,"['SiliconSculptor', 'NanoBits']","['Sílicon Skûlpter', 'Nano Bits']",pm_alex,1,p
+audio/477.wav,O acceco e o PhotonicPulse estão facilitando o acesso remoto e melhorando a velocidade de transmissão de dados.,"['acceco', 'PhotonicPulse']","['accecou', 'Fotônik Pulss']",pm_alex,1.4,p
+audio/478.wav,O BitStride e o CryoCluster estão sendo implementados para aumentar a eficiência e integração de dados.,"['BitStride', 'CryoCluster']","['Bít Stráid', 'Crâio klãstãr']",pf_dora,1.3,p
+audio/479.wav,A equipe de desenvolvimento da CyberCloak está trabalhando em uma nova solução de segurança.,['CyberCloak'],['Sáiber Clôuk'],pf_dora,1.2,p
+audio/480.wav,Precisamos discutir a integração do CodeCatalyst na nossa plataforma de software.,['CodeCatalyst'],['Coude Kátulist'],pm_santa,1.4,p
+audio/481.wav,O ProxiPort será essencial para melhorar a conectividade entre nossos servidores.,['ProxiPort'],['Próksi pôrte'],pm_alex,1.4,p
+audio/482.wav,A atualização do FluxKernel está programada para o próximo mês.,['FluxKernel'],['Fluks Kêrnel'],pm_santa,1.2,p
+audio/483.wav,A IntraInk está liderando o projeto de digitalização dos documentos internos.,['IntraInk'],['Intra Ink'],pf_dora,1.1,p
+audio/484.wav,A integração entre CyberCloak e CodeCatalyst pode aumentar a eficiência do sistema.,"['CyberCloak', 'CodeCatalyst']","['Sáiber Clôuk', 'Coude Kátulist']",pm_santa,1.1,p
+audio/485.wav,A equipe de TI está testando a compatibilidade entre ProxiPort e FluxKernel.,"['ProxiPort', 'FluxKernel']","['Próksi pôrte', 'Fluks Kêrnel']",pm_alex,1.4,p
+audio/486.wav,A IntraInk está colaborando com a CyberCloak para melhorar a segurança dos dados.,"['IntraInk', 'CyberCloak']","['Intra Ink', 'Sáiber Clôuk']",pm_santa,1,p
+audio/487.wav,O CodeCatalyst será integrado ao ProxiPort para otimizar a performance.,"['CodeCatalyst', 'ProxiPort']","['Coude Kátulist', 'Próksi pôrte']",pf_dora,1,p
+audio/488.wav,A atualização do FluxKernel será realizada pela equipe da IntraInk.,"['FluxKernel', 'IntraInk']","['Fluks Kêrnel', 'Intra Ink']",pf_dora,1.1,p
+audio/489.wav,A CyberCloak está desenvolvendo novas ferramentas de proteção contra ameaças cibernéticas.,['CyberCloak'],['Sáiber Clôuk'],pm_alex,1,p
+audio/490.wav,O CodeCatalyst será utilizado para acelerar o desenvolvimento de software.,['CodeCatalyst'],['Coude Kátulist'],pm_alex,1,p
+audio/491.wav,A implementação do ProxiPort vai melhorar a comunicação entre os departamentos.,['ProxiPort'],['Próksi pôrte'],pm_alex,1.4,p
+audio/492.wav,A equipe técnica está revisando o código do FluxKernel para otimização.,['FluxKernel'],['Fluks Kêrnel'],pf_dora,1.1,p
+audio/493.wav,A IntraInk está desenvolvendo uma nova interface para o sistema de gestão.,['IntraInk'],['Intra Ink'],pm_santa,1.1,p
+audio/494.wav,A colaboração entre CyberCloak e CodeCatalyst está trazendo resultados positivos.,"['CyberCloak', 'CodeCatalyst']","['Sáiber Clôuk', 'Coude Kátulist']",pm_santa,1.4,p
+audio/495.wav,A integração do ProxiPort com o FluxKernel está em fase de testes.,"['ProxiPort', 'FluxKernel']","['Próksi pôrte', 'Fluks Kêrnel']",pf_dora,1,p
+audio/496.wav,A IntraInk está trabalhando com a CyberCloak para melhorar a segurança dos dados.,"['IntraInk', 'CyberCloak']","['Intra Ink', 'Sáiber Clôuk']",pf_dora,1.1,p
+audio/497.wav,O CodeCatalyst será integrado ao ProxiPort para aumentar a eficiência.,"['CodeCatalyst', 'ProxiPort']","['Coude Kátulist', 'Próksi pôrte']",pm_alex,1.1,p
+audio/498.wav,A atualização do FluxKernel será realizada pela equipe da IntraInk.,"['FluxKernel', 'IntraInk']","['Fluks Kêrnel', 'Intra Ink']",pm_alex,1.3,p
+audio/499.wav,A CyberCloak está desenvolvendo novas soluções de segurança para a empresa.,['CyberCloak'],['Sáiber Clôuk'],pm_alex,1.3,p
+audio/500.wav,O CodeCatalyst será utilizado para melhorar o desenvolvimento de software.,['CodeCatalyst'],['Coude Kátulist'],pm_alex,1,p
+audio/501.wav,A implementação do ProxiPort vai melhorar a conectividade entre os departamentos.,['ProxiPort'],['Próksi pôrte'],pm_alex,1.3,p
+audio/502.wav,A equipe técnica está revisando o código do FluxKernel para otimização.,['FluxKernel'],['Fluks Kêrnel'],pm_santa,1.3,p
+audio/503.wav,A IntraInk está desenvolvendo uma nova interface para o sistema de gestão.,['IntraInk'],['Intra Ink'],pf_dora,1.1,p
+audio/504.wav,A colaboração entre CyberCloak e CodeCatalyst está trazendo resultados positivos.,"['CyberCloak', 'CodeCatalyst']","['Sáiber Clôuk', 'Coude Kátulist']",pm_alex,1.1,p
+audio/505.wav,A integração do ProxiPort com o FluxKernel está em fase de testes.,"['ProxiPort', 'FluxKernel']","['Próksi pôrte', 'Fluks Kêrnel']",pf_dora,1,p
+audio/506.wav,A IntraInk está trabalhando com a CyberCloak para melhorar a segurança dos dados.,"['IntraInk', 'CyberCloak']","['Intra Ink', 'Sáiber Clôuk']",pm_santa,1.1,p
+audio/507.wav,O CodeCatalyst será integrado ao ProxiPort para aumentar a eficiência.,"['CodeCatalyst', 'ProxiPort']","['Coude Kátulist', 'Próksi pôrte']",pm_santa,1.2,p
+audio/508.wav,A atualização do FluxKernel será realizada pela equipe da IntraInk.,"['FluxKernel', 'IntraInk']","['Fluks Kêrnel', 'Intra Ink']",pm_santa,1.2,p
+audio/509.wav,A CyberCloak está desenvolvendo novas soluções de segurança para a empresa.,['CyberCloak'],['Sáiber Clôuk'],pm_alex,1.3,p
+audio/510.wav,O CodeCatalyst será utilizado para melhorar o desenvolvimento de software.,['CodeCatalyst'],['Coude Kátulist'],pm_alex,1,p
+audio/511.wav,A implementação do ProxiPort vai melhorar a conectividade entre os departamentos.,['ProxiPort'],['Próksi pôrte'],pm_alex,1.3,p
+audio/512.wav,A equipe técnica está revisando o código do FluxKernel para otimização.,['FluxKernel'],['Fluks Kêrnel'],pm_alex,1.1,p
+audio/513.wav,A IntraInk está desenvolvendo uma nova interface para o sistema de gestão.,['IntraInk'],['Intra Ink'],pm_santa,1.3,p
+audio/514.wav,A colaboração entre CyberCloak e CodeCatalyst está trazendo resultados positivos.,"['CyberCloak', 'CodeCatalyst']","['Sáiber Clôuk', 'Coude Kátulist']",pm_santa,1.3,p
+audio/515.wav,A integração do ProxiPort com o FluxKernel está em fase de testes.,"['ProxiPort', 'FluxKernel']","['Próksi pôrte', 'Fluks Kêrnel']",pf_dora,1.4,p
+audio/516.wav,A IntraInk está trabalhando com a CyberCloak para melhorar a segurança dos dados.,"['IntraInk', 'CyberCloak']","['Intra Ink', 'Sáiber Clôuk']",pm_alex,1.2,p
+audio/517.wav,O CodeCatalyst será integrado ao ProxiPort para aumentar a eficiência.,"['CodeCatalyst', 'ProxiPort']","['Coude Kátulist', 'Próksi pôrte']",pf_dora,1.4,p
+audio/518.wav,A atualização do FluxKernel será realizada pela equipe da IntraInk.,"['FluxKernel', 'IntraInk']","['Fluks Kêrnel', 'Intra Ink']",pm_santa,1.2,p

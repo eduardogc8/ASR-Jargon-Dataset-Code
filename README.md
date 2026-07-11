@@ -8,9 +8,16 @@ Here, you can find the scripts to reproduce all experiments, including the basel
 
 ## Datasets on Hugging Face
 
-All novel datasets presented in this work will be publicly available on the Hugging Face Hub.
+All novel datasets presented in this work are publicly available on the Hugging Face Hub.
 
-* **Link to Dataset:** TBA
+* **Link to Dataset:** https://huggingface.co/datasets/egcortes/asr-jargon-specialized-vocabulary
+
+Four configs are available: `synthetic_terms_en`, `synthetic_terms_pt`, `wikidata_synthetic_en`, `wikidata_synthetic_pt`.
+
+```python
+from datasets import load_dataset
+ds = load_dataset("egcortes/asr-jargon-specialized-vocabulary", "synthetic_terms_en")
+```
 
 We do not redistribute the original audio/text of the literature-derived subsets (CHiME-6, Earnings-22, FLEURS, GLOBE, SPGISpeech, CORAA, LapsBM) — only our jargon annotations for those, under `data/literature_annotations/`. See `data/README.md`.
 
