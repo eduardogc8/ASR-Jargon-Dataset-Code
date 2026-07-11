@@ -1,0 +1,32 @@
+Data License — CC BY 4.0
+=========================
+
+The novel datasets distributed from this directory and on the Hugging Face
+Hub (Synthetic Terms EN/PT, Wikidata Synthetic EN/PT, and the
+`literature_annotations/*.csv` jargon-annotation tables) are released under
+the Creative Commons Attribution 4.0 International license (CC BY 4.0).
+
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+In short, you are free to share and adapt this data for any purpose,
+including commercially, as long as you give appropriate credit (see
+"How to Cite" in the top-level README.md), provide a link to the license,
+and indicate if changes were made.
+
+Notes on underlying sources:
+- Jargon terms and IPA transcriptions used to build the Wikidata Synthetic
+  subsets originate from Wikidata, which is dedicated to the public domain
+  under CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/).
+- Audio was synthesized with KokoroTTS (Apache License 2.0), which permits
+  use and redistribution of generated audio.
+- The Synthetic Terms subsets consist of entirely LLM-generated (GPT-4o),
+  fictional technical terms — no real product or proprietary names.
+- We are re-releasing this combined work under CC BY 4.0 for consistency
+  and to make attribution requirements unambiguous. If your use case
+  requires CC0-equivalent terms/IPA data on its own, see Wikidata directly.
+
+This directory intentionally does NOT include the original audio or text
+of the literature-derived datasets (CHiME-6, Earnings-22, FLEURS, GLOBE,
+SPGISpeech, CORAA, LapsBM). Those remain under their original publishers'
+licenses — use `scripts/1_prepare_datasets.py` to rebuild those subsets
+locally after downloading the originals and agreeing to their terms.

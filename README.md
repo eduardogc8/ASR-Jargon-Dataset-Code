@@ -1,16 +1,27 @@
 # A Dataset for Evaluating ASR on Specialized Vocabulary
 
-This repository contains the official code for the paper: **"A Dataset for Evaluating ASR on Specialized Vocabulary"**.
+Official dataset and code for the paper **"A Dataset for Evaluating ASR on Specialized Vocabulary"**, accepted at the Fifteenth Language Resources and Evaluation Conference (LREC 2026).
 
-Here, you can find the scripts to reproduce all experiments, including the baseline evaluations on our novel jargon-focused ASR datasets.
+We introduce a linguistically curated, bilingual (English/Portuguese) benchmark for evaluating ASR performance on specialized jargon and out-of-vocabulary (OOV) terms, together with a diagnostic Biased WER (B-WER) / Unbiased WER (U-WER) evaluation framework, and baseline results for Whisper `medium`, `large-v3`, and `large-v3-turbo`.
+
+This repository contains: the scripts to reproduce all experiments, the expert annotation tables used to identify jargon in seven well-known literature corpora, and pointers to our four novel synthetic datasets on Hugging Face.
 
 ---
 
 ## Datasets on Hugging Face
 
-All novel datasets presented in this work will be publicly available on the Hugging Face Hub.
+The four novel datasets we created for this work — `synthetic_terms` (EN/PT) and `wikidata_synthetic` (EN/PT) — are released with full audio and are hosted on the Hugging Face Hub.
 
-* **Link to Dataset:** TBA
+* **Link to Dataset:** TBA (publication in progress — see `data/README.md` for the local dataset layout in the meantime)
+
+We do **not** redistribute the original audio/text of the literature-derived subsets (CHiME-6, Earnings-22, FLEURS, GLOBE, SPGISpeech, CORAA, LapsBM); only our expert jargon annotations for those are included, under `data/literature_annotations/`. See `data/README.md` and our Ethics Statement (paper §8.1) for the full rationale.
+
+---
+
+## License
+
+- **Code** (this repository's scripts): MIT — see `LICENSE`.
+- **Data** (annotations and novel synthetic datasets): CC BY 4.0 — see `data/LICENSE`.
 
 ---
 
@@ -99,18 +110,4 @@ The best result for each metric within a given dataset and condition is marked i
 |                | **Synth. Terms** | Standard  | `medium`         |   0.216   |   0.832   |    0.132     |   0.197   |    0.166     |
 |                |                  |           | `large-v3`       |   0.197   |   0.773   |    0.117     |   0.179   |    0.148     |
 |                |                  |           | `large-v3-turbo` | **0.193** | **0.749** |  **0.115**   | **0.176** |  **0.146**   |
-|                |                  | Prompted  | `medium`         | **0.071** | **0.136** |    0.072     | **0.069** |  **0.046**   |
-|                |                  |           | `large-v3`       |   0.138   |   0.548   |    0.088     |   0.130   |    0.104     |
-|                |                  |           | `large-v3-turbo` |   0.077   |   0.214   |  **0.060**   |   0.073   |    0.055     |
-|                | **Wikidata**     | Standard  | `medium`         |   0.183   |   0.777   |    0.091     |   0.178   |    0.163     |
-|                |                  |           | `large-v3`       | **0.165** | **0.730** |    0.071     | **0.161** |  **0.148**   |
-|                |                  |           | `large-v3-turbo` |   0.165   |   0.750   |  **0.066**   |   0.162   |    0.150     |
-|                |                  | Prompted  | `medium`         | **0.068** | **0.216** |    0.061     | **0.066** |  **0.054**   |
-|                |                  |           | `large-v3`       |   0.110   |   0.507   |  **0.052**   |   0.108   |    0.099     |
-|                |                  |           | `large-v3-turbo` |   0.083   |   0.315   |  **0.052**   |   0.081   |    0.073     |
-
----
-
-## How to Cite
-
-To cite this work, please use the following BibTeX entry: TBA
+|                |                  | Prompted  | `medium`         | **0.071** | **0.136** |    0.072     | **0.069** 

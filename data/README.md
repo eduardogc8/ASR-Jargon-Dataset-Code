@@ -1,22 +1,25 @@
 # Data Directory Information
 
-This directory contains the novel contributions of our work: the annotation files for literature-derived datasets and novel datasets.
+This directory contains the novel contributions of our work: annotation
+files for literature-derived datasets, and the full novel datasets we
+created ourselves.
 
-In `original_datasets` will contains all the novel datasets created for this work, including:
-- `SynthicTerms English`
-- `SynthicTerms Portuguese`
-- `Wikidata English`
-- `Wikidata Portuguese`
+License: all data here is released under **CC BY 4.0** — see `LICENSE` in
+this directory for details and provenance notes.
 
-It also contains the annotations of samples from various literature datasets in `literature_annotations`, including:
-- [Fleurs (English and Portuguese)](https://huggingface.co/datasets/google/fleurs)
-- [CHIME6](https://huggingface.co/datasets/DynamicSuperb/SuperbOODAsrSpon_CHIME6-Test)
-- [CORAA](https://huggingface.co/datasets/nilc-nlp/CORAA-MUPE-ASR)
-- [Earnings22](https://huggingface.co/datasets/sanchit-gandhi/earnings22_split)
-- [LapsBM](https://huggingface.co/datasets/laudite-ufg/laps_bm)
-- [SPGISpeech](https://huggingface.co/datasets/kensho/spgispeech)
-- [GLOBE](https://huggingface.co/datasets/MushanW/GLOBE)
+## `original_datasets/` — novel synthetic datasets (full audio + text)
 
-It **does not** contain the original, large audio corpora from other sources due to **licensing restrictions** and **file size**.
+These four subsets are entirely our own work (LLM-generated terms and/or
+Wikidata-sourced terms, synthesized with KokoroTTS) and are freely
+redistributable:
 
-The script `scripts/1_prepare_datasets.py` will automatically fetch the data and cache it locally. It is necessary to run this script before executing experiments.
+| Subset | Language | Description |
+|---|---|---|
+| `synthetic_terms/` | English | ~520 utterances with entirely novel, 100% OOV, LLM-generated technical terms |
+| `synthetic_terms_pt/` | Portuguese | ~520 utterances, Portuguese equivalent |
+| `wikidata_synthetic/` | English | ~5,270 utterances embedding foreign-origin proper nouns sourced from Wikidata |
+| `wikidata_synthetic_pt/` | Portuguese | ~5,250 utterances, Portuguese equivalent (via Phonetic Approximation in Brazilian Portuguese) |
+
+Each subset folder contains:
+- `audio/` — the `.wav` files (not tracked in git — see "Getting the audio" below)
+- `data.xlsx` — human-readable metadata: id, sentence text, target terms, IPA transcriptions, audio path, TTS voice/speed/language

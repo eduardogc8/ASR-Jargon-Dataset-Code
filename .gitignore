@@ -1,0 +1,15 @@
+# Large binary dataset payloads are distributed via the Hugging Face Hub,
+# not through git. Only the lightweight, human-reviewable metadata
+# (data.xlsx) for each subset is tracked here.
+data/original_datasets/*/audio/
+data/original_datasets/*/dataset.json
+data/original_datasets/*/data.csv
+
+# Local cache produced by scripts/1_prepare_datasets.py
+data/literature_annotations/*.json
+
+# Python / editor cruft
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
