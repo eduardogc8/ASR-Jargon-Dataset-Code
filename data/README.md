@@ -1,25 +1,31 @@
 # Data Directory Information
 
-This directory contains the novel contributions of our work: annotation
-files for literature-derived datasets, and the full novel datasets we
-created ourselves.
+This directory contains the novel contributions of our work: the annotation files for literature-derived datasets and novel datasets.
 
-License: all data here is released under **CC BY 4.0** — see `LICENSE` in
-this directory for details and provenance notes.
+License: CC0 1.0 — see `LICENSE` in this directory.
 
-## `original_datasets/` — novel synthetic datasets (full audio + text)
+## `original_datasets/`
 
-These four subsets are entirely our own work (LLM-generated terms and/or
-Wikidata-sourced terms, synthesized with KokoroTTS) and are freely
-redistributable:
+The four novel datasets created for this work:
 
-| Subset | Language | Description |
-|---|---|---|
-| `synthetic_terms/` | English | ~520 utterances with entirely novel, 100% OOV, LLM-generated technical terms |
-| `synthetic_terms_pt/` | Portuguese | ~520 utterances, Portuguese equivalent |
-| `wikidata_synthetic/` | English | ~5,270 utterances embedding foreign-origin proper nouns sourced from Wikidata |
-| `wikidata_synthetic_pt/` | Portuguese | ~5,250 utterances, Portuguese equivalent (via Phonetic Approximation in Brazilian Portuguese) |
+| Subset | Language |
+|---|---|
+| `synthetic_terms/` | English |
+| `synthetic_terms_pt/` | Portuguese |
+| `wikidata_synthetic/` | English |
+| `wikidata_synthetic_pt/` | Portuguese |
 
-Each subset folder contains:
-- `audio/` — the `.wav` files (not tracked in git — see "Getting the audio" below)
-- `data.xlsx` — human-readable metadata: id, sentence text, target terms, IPA transcriptions, audio path, TTS voice/speed/language
+Each folder has `data.xlsx` (text, target terms, IPA, audio path) and `audio/*.wav`. Full audio is hosted on Hugging Face — see the top-level README for the link.
+
+## `literature_annotations/`
+
+Jargon-term annotations for samples from existing literature datasets:
+- [FLEURS (English and Portuguese)](https://huggingface.co/datasets/google/fleurs)
+- [CHIME6](https://huggingface.co/datasets/DynamicSuperb/SuperbOODAsrSpon_CHIME6-Test)
+- [CORAA](https://huggingface.co/datasets/nilc-nlp/CORAA-MUPE-ASR)
+- [Earnings22](https://huggingface.co/datasets/sanchit-gandhi/earnings22_split)
+- [LapsBM](https://huggingface.co/datasets/laudite-ufg/laps_bm)
+- [SPGISpeech](https://huggingface.co/datasets/kensho/spgispeech)
+- [GLOBE](https://huggingface.co/datasets/MushanW/GLOBE)
+
+It **does not** contain the original, large aud
