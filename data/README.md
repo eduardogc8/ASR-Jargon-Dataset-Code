@@ -2,8 +2,6 @@
 
 This directory contains the novel contributions of our work: the annotation files for literature-derived datasets and novel datasets.
 
-License: CC0 1.0 — see `LICENSE` in this directory.
-
 ## `original_datasets/`
 
 The four novel datasets created for this work:
@@ -28,4 +26,4 @@ Jargon-term annotations for samples from existing literature datasets:
 - [SPGISpeech](https://huggingface.co/datasets/kensho/spgispeech)
 - [GLOBE](https://huggingface.co/datasets/MushanW/GLOBE)
 
-It **does not** contain the original, large aud
+It **does not** contain the original, large audio corpora from other sources due to **licensing restri

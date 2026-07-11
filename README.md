@@ -16,13 +16,6 @@ We do not redistribute the original audio/text of the literature-derived subsets
 
 ---
 
-## License
-
-- Code: MIT — see `LICENSE`.
-- Data: CC0 1.0 — see `data/LICENSE`.
-
----
-
 ## How to Reproduce Our Results
 
 The process involves two main steps: automatically downloading the datasets and then running the evaluation script.
@@ -115,3 +108,4 @@ The best result for each metric within a given dataset and condition is marked i
 |                |                  |           | `large-v3`       | **0.165** | **0.730** |    0.071     | **0.161** |  **0.148**   |
 |                |                  |           | `large-v3-turbo` |   0.165   |   0.750   |  **0.066**   |   0.162   |    0.150     |
 |                |                  | Prompted  | `medium`         | **0.068** | **0.216** |    0.061     | **0.066** |  **0.054**   |
+|                |                  |           | `large-v3`       |   0.110   |   0.507   |  **
