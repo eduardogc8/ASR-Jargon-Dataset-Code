@@ -108,4 +108,33 @@ The best result for each metric within a given dataset and condition is marked i
 |                |                  |           | `large-v3`       | **0.165** | **0.730** |    0.071     | **0.161** |  **0.148**   |
 |                |                  |           | `large-v3-turbo` |   0.165   |   0.750   |  **0.066**   |   0.162   |    0.150     |
 |                |                  | Prompted  | `medium`         | **0.068** | **0.216** |    0.061     | **0.066** |  **0.054**   |
-|                |                  |           | `large-v3`       |   0.110   |   0.507   |  **
+|                |                  |           | `large-v3`       |   0.110   |   0.507   |  **0.052**   |   0.108   |    0.099     |
+|                |                  |           | `large-v3-turbo` |   0.083   |   0.315   |  **0.052**   |   0.081   |    0.073     |
+
+---
+
+## How to Cite
+
+To cite this work, please use the following BibTeX entry:
+
+```bibtex
+@inproceedings{klering-etal-2026-dataset,
+  title     = {A Dataset for Evaluating {ASR} on Specialized Vocabulary},
+  author    = {Klering, Emily Haubert and Cortes, Eduardo Gabriel and Chernenko, Tatjana
+               and Trarbach, Mariana Vargas and Ramos, Gabriel de Oliveira and Rigo, Sandro Jos\'{e}
+               and Dupont, Mait\^{e} and Vianna, Ana Luiza Treichel and Santos, Gabriela Krause dos
+               and Pereira, Vinicius Meirelles and de Araujo, Denis Andrei and Kunst, Rafael},
+  editor    = {Piperidis, Stelios and Bel, N\'{u}ria and van den Heuvel, Henk and Ide, Nancy
+               and Krek, Simon and Toral, Antonio},
+  booktitle = {Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)},
+  year      = {2026},
+  month     = may,
+  address   = {Palma, Mallorca, Spain},
+  publisher = {European Language Resources Association (ELRA)},
+  pages     = {470--480},
+  isbn      = {978-2-493814-49-4},
+  issn      = {2522-2686},
+  doi       = {10.63317/568sthbwdhap},
+  url       = {https://lrec.elra.info/lrec2026-main-032}
+}
+```

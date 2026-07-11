@@ -26,4 +26,6 @@ Jargon-term annotations for samples from existing literature datasets:
 - [SPGISpeech](https://huggingface.co/datasets/kensho/spgispeech)
 - [GLOBE](https://huggingface.co/datasets/MushanW/GLOBE)
 
-It **does not** contain the original, large audio corpora from other sources due to **licensing restri
+It **does not** contain the original, large audio corpora from other sources due to **licensing restrictions** and **file size**.
+
+The script `scripts/1_prepare_datasets.py` will automatically fetch the data and cache it locally. It is necessary to run this script before executing experiments.
